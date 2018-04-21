@@ -1,0 +1,850 @@
+{
+  "popanime": [
+    {
+      "name": {
+        "en": "Zenzenzense",
+        "jp": "前前前世"
+      },
+      "artist": {
+        "en": "RADWIMPS",
+        "jp": "RADWIMPSようこそジャパリパークへ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/607_mms_zenzenzense.jpg",
+      "version": "MURASAKi+",
+      "bpm": 190,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "11",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=PDSkFeMVNFs",
+        "niconico": null
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Miracle Shopping",
+        "jp": "ミラクル・ショッピング"
+      },
+      "artist": {
+        "en": "Maimi Tanaka",
+        "jp": "田中マイミ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180220_4.jpg",
+      "version": "MiLK",
+      "bpm": 167,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=NM3t2ie6Yzc",
+        "niconico": null
+      },
+      "regionlocked": false
+    }
+  ],
+  "nicovocloid": [
+    {
+      "name": {
+        "en": "Tokyo Retro",
+        "jp": "東京レトロ"
+      },
+      "artist": {
+        "en": "Scop",
+        "jp": "すこっぷ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/620_mms_tokyo_retro.jpg",
+      "version": "MURASAKi+",
+      "bpm": 126,
+      "level" : {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=17WsZ2J1f9s",
+        "niconico": "http://www.niconico.jp/watch/sm21113426"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "DUNE feat. Hatsune Miku",
+        "jp": "砂の惑星 feat. HATSUNE MIKU"
+      },
+      "artist": {
+        "en": "Hachi",
+        "jp": "ハチ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/725_maiMilk07.jpg",
+      "version": "MiLK",
+      "bpm": 95,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=AS4q9yaWJkI",
+        "niconico": "http://www.nicovideo.jp/watch/sm31606995"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "DONUT HOLE",
+        "jp": "ドーナツホール"
+      },
+      "artist": {
+        "en": "Hachi",
+        "jp": "ハチ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180206_4.jpg",
+      "version": "MiLK",
+      "bpm": 252,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=qnX2CdOBcDI",
+        "niconico": "http://www.niconico.jp/watch/sm22138447"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Dear Doppelganger",
+        "jp": "拝啓ドッペルゲンガー"
+      },
+      "artist": {
+        "en": "kemu",
+        "jp": "kemu"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/711_maiMilk08.jpg",
+      "version": "MiLK",
+      "bpm": 181,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=grdy6rLbQ-c",
+        "niconico": "http://www.nicovideo.jp/watch/sm31314079"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Life Reset Button",
+        "jp": "人生リセットボタン"
+      },
+      "artist": {
+        "en": "kemu",
+        "jp": "kemu"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180206_3.jpg",
+      "version": "MiLK",
+      "bpm": 200,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=IN3kbST908c",
+        "niconico": "http://www.nicovideo.jp/watch/sm16110005"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Unknown Mother-Goose",
+        "jp": "アンノウン・マザーグース"
+      },
+      "artist": {
+        "en": "wowaka",
+        "jp": "wowaka"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/726_maiMilk06.jpg",
+      "version": "MiLK",
+      "bpm": 222,
+      "level" : {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=P_CSdxSGfaA",
+        "niconico": "http://www.nicovideo.jp/watch/sm31791630"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Nonsense Literature",
+        "jp": "ナンセンス文学"
+      },
+      "artist": {
+        "en": "Eve",
+        "jp": "Eve"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180306_1.jpg",
+      "version": "MiLK",
+      "bpm": 154,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=OskXF3s0UT8",
+        "niconico": "http://www.nicovideo.jp/watch/sm31241401"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "The Synesthesia Ghosts",
+        "jp": "共感覚おばけ"
+      },
+      "artist": {
+        "en": "sasanomaly",
+        "jp": "ササノマリイ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180306_2.jpg",
+      "version": "MiLK",
+      "bpm": 184,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=XVoXZzgO8Ew",
+        "niconico": "http://www.nicovideo.jp/watch/sm26261134"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Kire Kyari On",
+        "jp": "キレキャリオン"
+      },
+      "artist": {
+        "en": "Police Piccadilly",
+        "jp": "ポリスピカデリー"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180320_1.jpg",
+      "version": "MiLK",
+      "bpm": 170,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=AWVvuh9L2cc",
+        "niconico": "http://www.nicovideo.jp/watch/sm30228596"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Monologue",
+        "jp": "ドクハク"
+      },
+      "artist": {
+        "en": "MARETU",
+        "jp": "MARETU"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180320_1.jpg",
+      "version": "MiLK",
+      "bpm": 208,
+      "level" : {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=nCO9j_L894U",
+        "niconico": "http://www.nicovideo.jp/watch/sm30301328"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Arukari Rettousei",
+        "jp": "アルカリレットウセイ"
+      },
+      "artist": {
+        "en": "Kairiki Bear",
+        "jp": "かいりきベア"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180320_3.jpg",
+      "version": "MiLK",
+      "bpm": 158,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=zLmopbS97aY",
+        "niconico": "http://www.nicovideo.jp/watch/sm30105817"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Dance Robot Dance",
+        "jp": "ダンスロボットダンス"
+      },
+      "artist": {
+        "en": "Nayutalien",
+        "jp": "ナユタン星人"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180320_4.jpg",
+      "version": "MiLK",
+      "bpm": 190,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=xMXcO3JCt6I",
+        "niconico": "http://www.nicovideo.jp/watch/sm30177801"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Shinebaiinoni",
+        "jp": "しねばいいのに"
+      },
+      "artist": {
+        "en": "dBu",
+        "jp": "どぶウサギ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180206_1.jpg",
+      "version": "MiLK",
+      "bpm": 138,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=QpgABOmLGEk",
+        "niconico": "http://www.nicovideo.jp/watch/sm5858956"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Love! Snow! Really",
+        "jp": "好き！雪！本気マジック"
+      },
+      "artist": {
+        "en": "Mitchie M",
+        "jp": "Mitchie M"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180109_2.jpg",
+      "version": "MiLK",
+      "bpm": 167,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=79N1O0lF0GY",
+        "niconico": "http://www.nicovideo.jp/watch/sm22791352"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Star Light Snow",
+        "jp": "スターナイトスノウ"
+      },
+      "artist": {
+        "en": "n-buna × Orangestar",
+        "jp": "n-buna × Orangestar"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180109_1.jpg",
+      "version": "MiLK",
+      "bpm": 180,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ZuT3xYLW7vA",
+        "niconico": "http://www.nicovideo.jp/watch/sm30376326"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "The Snow White Princess is",
+        "jp": "白い雪のプリンセスは"
+      },
+      "artist": {
+        "en": "Noboru↑",
+        "jp": "のぼる↑"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180109_3.jpg",
+      "version": "MiLK",
+      "bpm": 200,
+      "level" : {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "http://www.youtube.com/watch?v=aPb-MTcpNbE",
+        "niconico": "http://www.niconico.jp/watch/sm9797269"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "reincarnation",
+        "jp": "リンカーネイション"
+      },
+      "artist": {
+        "en": "kemu",
+        "jp": "kemu"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/610_mms_reincarnation.jpg",
+      "version": "MURASAKi+",
+      "bpm": 185,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=1EXGjYk_xXk",
+        "niconico": "http://www.nicovideo.jp/watch/sm20423253"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Six Trillion Years and Overnight Story",
+        "jp": "六兆年と一夜物語"
+      },
+      "artist": {
+        "en": "kemu",
+        "jp": "kemu"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/288_mai_sel_rokuchounen_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 186,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Om3MTou2kPg",
+        "niconico": "http://www.nicovideo.jp/watch/sm17520775"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Shiawase ni Nareru Kakushi Command ga Arurashii",
+        "jp": "幸せになれる隠しコマンドがあるらしい"
+      },
+      "artist": {
+        "en": "UtataP",
+        "jp": "うたたP"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/432_mms_kakusicommand.jpg",
+      "version": "MURASAKi+",
+      "bpm": 142,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=lwT4h6x3UM0",
+        "niconico": "http://www.nicovideo.jp/watch/sm21249768"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "fragile",
+        "jp": "フラジール"
+      },
+      "artist": {
+        "en": "nuyuri",
+        "jp": "ぬゆり"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/655_mms_fragile.jpg",
+      "version": "MURASAKi+",
+      "bpm": 127,
+      "level" : {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "8",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=a_rrj1Xh5LI",
+        "niconico": "http://www.nicovideo.jp/watch/sm29610327"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "CHIGAU!!!",
+        "jp": "ちがう!!!"
+      },
+      "artist": {
+        "en": "CarlosHakamada (SaizeP)",
+        "jp": "カルロス袴田(サイゼP)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/663_mms_chigau.jpg",
+      "version": "MURASAKi+",
+      "bpm": 181,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=AOvvHI1_5mI",
+        "niconico": "http://www.nicovideo.jp/watch/sm30057669"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "MEITANTEIRENZOKUSATSUJINJIKEN",
+        "jp": "名探偵連続殺人事件"
+      },
+      "artist": {
+        "en": "teniwoha",
+        "jp": "てにをは "
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/646_mms_meitanntei.jpg",
+      "version": "MURASAKi+",
+      "bpm": 140,
+      "level" : {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "11",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=j3y7bJxOUZQ",
+        "niconico": "http://www.nicovideo.jp/watch/sm29355034"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "ARROW",
+        "jp": "ARROW"
+      },
+      "artist": {
+        "en": "niki",
+        "jp": "niki"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/621_mms_arrow.jpg",
+      "version": "MURASAKi+",
+      "bpm": 131,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=V3cKo8OffwI",
+        "niconico": "http://www.nicovideo.jp/watch/sm29348475"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "healthy end",
+        "jp": "ヘルシーエンド"
+      },
+      "artist": {
+        "en": "siinamota(powapowaP)",
+        "jp": "椎名もた (ぽわぽわP)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/514_mms_healthyend.jpg",
+      "version": "MURASAKi+",
+      "bpm": 150,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=u_MP5RNrLx0",
+        "niconico": "http://www.nicovideo.jp/watch/sm27218941"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "The Lamentations of the Lost Ones",
+        "jp": "ロストワンの号哭"
+      },
+      "artist": {
+        "en": "Neru",
+        "jp": "Neru"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/299_mai_jacket_lostone_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 162,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": "12+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=8oBV3jPTW4s",
+        "niconico": "http://www.niconico.jp/watch/sm20244918"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Senbon Zakura",
+        "jp": "千本桜"
+      },
+      "artist": {
+        "en": "KurousaP",
+        "jp": "黒うさP"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/125_mai_jacket_senbonsakura_01.jpg",
+      "version": "maimai+",
+      "bpm": 154,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=shs0rAiwsGQ",
+        "niconico": "http://www.niconico.jp/watch/sm15630734"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Chururira・Chururira・Daddadda!",
+        "jp": "チュルリラ・チュルリラ・ダッダッダ！"
+      },
+      "artist": {
+        "en": "Takeaki Wada(KurageP)",
+        "jp": "和田たけあき(くらげP)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/553_mms_chururira.jpg",
+      "version": "MURASAKi",
+      "bpm": 220,
+      "level" : {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=_j0kfGNwIlw",
+        "niconico": "http://www.nicovideo.jp/watch/sm28276238"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Umiyuri Kaiteitan",
+        "jp": "ウミユリ海底譚"
+      },
+      "artist": {
+        "en": "n-buna",
+        "jp": "n-buna"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/417_mai_jacket_umiyuri_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 120,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=7JANm3jOb2k",
+        "niconico": "http://www.nicovideo.jp/watch/sm22960446"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Shirayuki",
+        "jp": "白ゆき"
+      },
+      "artist": {
+        "en": "n-buna",
+        "jp": "n-buna"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/587_mms_sirayuki.jpg",
+      "version": "MURASAKi+",
+      "bpm": 210,
+      "level" : {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://youtu.be/oAVDdEfiy4o",
+        "niconico": "http://www.nicovideo.jp/watch/sm28406516"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "The Disappearance of Hatsune Miku",
+        "jp": "初音ミクの消失"
+      },
+      "artist": {
+        "en": "cosMo@Bousou-P",
+        "jp": "cosMo＠暴走P"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/411_mai_jacket_syoshitsu_01.jpg",
+      "version": "PiNK",
+      "bpm": 240,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "http://www.youtube.com/watch?v=DouheoH8GTs",
+        "niconico": "http://www.nicovideo.jp/watch/sm2937784"
+      },
+      "regionlocked": false
+    }
+  ],
+  "touhou": [
+  
+  ],
+  "sega": [
+  
+  ],
+  "game": [
+  
+  ],
+  "original": [
+  
+  ]
+}
