@@ -5154,6 +5154,943 @@
     }
   ],
   "sega": [],
-  "game": [],
+  "game": [
+    {
+      "name": {
+        "en": "Credits",
+        "jp": "Credits"
+      },
+      "artist": {
+        "en": "Frums",
+        "jp": "Frums"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180306_3.jpg",
+      "version": "MiLK",
+      "bpm": 179,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11+",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=EOTAWLaDa58",
+        "niconico": "http://www.nicovideo.jp/watch/sm27216934"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Kirin",
+        "jp": "麒麟"
+      },
+      "artist": {
+        "en": "sasakure.UK",
+        "jp": "sasakure.UK"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180306_4.jpg",
+      "version": "MiLK",
+      "bpm": 220,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8+",
+        "expert": "11",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=pRuOxt05Y5Y",
+        "niconico": "www.nicovideo.jp/watch/sm26885205"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "MilK",
+        "jp": "MilK"
+      },
+      "artist": {
+        "en": "Morimori Atsushi",
+        "jp": "モリモリあつし"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/672_maiMilk04.jpg",
+      "version": "MiLK",
+      "bpm": 150,
+      "level": {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=2CJw_rihu5s",
+        "niconico": "http://www.nicovideo.jp/watch/sm27189326"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "GO BACK 2 YOUR RAVE",
+        "jp": "GO BACK 2 YOUR RAVE"
+      },
+      "artist": {
+        "en": "nora2r",
+        "jp": "nora2r"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/612_mms_go_back_2.jpg",
+      "version": "MURASAKi+",
+      "bpm": 170,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=E46RGO7599s",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "B.B.K.K.B.K.K.",
+        "jp": "B.B.K.K.B.K.K."
+      },
+      "artist": {
+        "en": "nora2r",
+        "jp": "nora2r"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/381_mai_jacket_bbkkbkk_01.jpg",
+      "version": "ORANGE",
+      "bpm": 170,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=XHtQO0aLEKI",
+        "niconico": "http://www.nicovideo.jp/watch/sm21894469"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "hitozato ni kudatta atai ga itsunomanika syachiku ni natteita ken",
+        "jp": "人里に下ったアタイがいつの間にか社畜になっていた件"
+      },
+      "artist": {
+        "en": "nekomirin + nora2r feat.Mao Komiya",
+        "jp": "\tねこみりん + nora2r feat. 小宮真央"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/658_mms_hitozato.jpg",
+      "version": "MURASAKi+",
+      "bpm": 180,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "11",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=TwoRAO5Cjx0",
+        "niconico": "http://www.nicovideo.jp/watch/sm27249238"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Maxi",
+        "jp": "Maxi"
+      },
+      "artist": {
+        "en": "Nizikawa",
+        "jp": "Nizikawa"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/625_mms_maxi.jpg",
+      "version": "MURASAKi+",
+      "bpm": 180,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=6hObnF-oPeg",
+        "niconico": "http://www.nicovideo.jp/watch/sm29700115"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "KISS CANDY FLAVOR",
+        "jp": "KISS CANDY FLAVOR"
+      },
+      "artist": {
+        "en": "Colorful Sounds Port",
+        "jp": "カラフル・サウンズ・ポート"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/624_mms_kiss_candy_flavor.jpg",
+      "version": "MURASAKi+",
+      "bpm": 146,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=_fAaeFKEtd8",
+        "niconico": "www.nicovideo.jp/watch/sm31840597"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "H-A-J-I-M-A-R-I-U-T-A-!!",
+        "jp": "H-A-J-I-M-A-R-I-U-T-A-!!"
+      },
+      "artist": {
+        "en": "777☆SISTERS",
+        "jp": "777☆SISTERS"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/576_mms_hajimariuta.jpg",
+      "version": "MURASAKi",
+      "bpm": 140,
+      "level": {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=dNza0hQnIJI",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Star☆Glitter",
+        "jp": "Star☆Glitter"
+      },
+      "artist": {
+        "en": "7TH SISTERS",
+        "jp": "セブンスシスターズ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/575_mms_starglitter.jpg",
+      "version": "MURASAKi",
+      "bpm": 171,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=7Cg3Ar3qErY",
+        "niconico": "www.nicovideo.jp/watch/sm26690534"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "conflict",
+        "jp": "conflict"
+      },
+      "artist": {
+        "en": "siromaru + cranky",
+        "jp": "siromaru + cranky"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/593_mms_conflict.jpg",
+      "version": "MURASAKi",
+      "bpm": 160,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10+",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=e8HRTlkGD4Q",
+        "niconico": "www.nicovideo.jp/watch/sm15713037"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Party 4U ”holy nite mix”",
+        "jp": "Party 4U ”holy nite mix”"
+      },
+      "artist": {
+        "en": "Cranky",
+        "jp": "Cranky"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/482_mai_jacket_party4u_01.jpg",
+      "version": "PiNK",
+      "bpm": 159,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=oZo23WLWHY4",
+        "niconico": "http://www.nicovideo.jp/watch/sm275"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "GOODMEN",
+        "jp": "GOODMEN"
+      },
+      "artist": {
+        "en": "EBIMAYO",
+        "jp": "EBIMAYO"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/555_mms_goodmen.jpg",
+      "version": "MURASAKi",
+      "bpm": 175,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=hrzcroHr1YY",
+        "niconico": "http://www.nicovideo.jp/watch/sm24712139"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Sakura Fubuki",
+        "jp": "Sakura Fubuki"
+      },
+      "artist": {
+        "en": "Street",
+        "jp": "Street"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/592_mms_sakurafubuki.jpg",
+      "version": "MURASAKi",
+      "bpm": 175,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=0keUnlH_0IY",
+        "niconico": "http://www.nicovideo.jp/watch/sm27207887"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "METATRON",
+        "jp": "METATRON"
+      },
+      "artist": {
+        "en": "SHIKI",
+        "jp": "SHIKI"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/542_mms_metatron.jpg",
+      "version": "PiNK+",
+      "bpm": 190,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=_tSw7BSRYrk",
+        "niconico": "http://www.nicovideo.jp/watch/sm27203689"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Omoiyoshino",
+        "jp": "オモイヨシノ"
+      },
+      "artist": {
+        "en": "loos feat. 柊莉杏",
+        "jp": "loos feat. 柊莉杏"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_omoiyosino_01.jpg",
+      "version": "PiNK",
+      "bpm": 168,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=TxFqDHC7JRM",
+        "niconico": "http://www.nicovideo.jp/watch/sm5589723"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "L9",
+        "jp": "L9"
+      },
+      "artist": {
+        "en": "paraoka",
+        "jp": "paraoka"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/376_mai_jacket_l9_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 256,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=CmkjYo7MGl8",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Jack-the-Ripper◆",
+        "jp": "Jack-the-Ripper◆"
+      },
+      "artist": {
+        "en": "sasakure.UK",
+        "jp": "sasakure.UK"
+      },
+      "image_url": "",
+      "version": "GreeN+",
+      "bpm": 210,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=zeFXzTQmkps",
+        "niconico": "http://www.nicovideo.jp/watch/sm8392170"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "DRAGONLADY",
+        "jp": "DRAGONLADY"
+      },
+      "artist": {
+        "en": "Nankumo/CUBE3",
+        "jp": "Nankumo/CUBE3"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/339_mai_sel_dragonlady_01.jpg",
+      "version": "GreeN+",
+      "bpm": 150,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "11",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ulb5BWNomo0",
+        "niconico": "http://www.nicovideo.jp/watch/sm11776532"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Pursuing My True Self",
+        "jp": "Pursuing My True Self"
+      },
+      "artist": {
+        "en": "目黒 将司",
+        "jp": "目黒 将司"
+      },
+      "image_url": "",
+      "version": "ORANGE+",
+      "bpm": 119,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=4WW2EacAseE",
+        "niconico": "http://www.nicovideo.jp/watch/sm24637173"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Signs Of Love (“Never More” ver.)",
+        "jp": "Signs Of Love (“Never More” ver.)"
+      },
+      "artist": {
+        "en": "目黒 将司",
+        "jp": "目黒 将司"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/442_mai_sel_signsoflove_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 109,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=tBKWq8-ugQI",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "specialist (“Never More” ver.)",
+        "jp": "specialist (“Never More” ver.)"
+      },
+      "artist": {
+        "en": "目黒 将司",
+        "jp": "目黒 将司"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/443_mai_sel_specialist_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 128,
+      "level": {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Dpu9rZOxevY",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Time To Make History (AKIRA YAMAOKA Remix)",
+        "jp": "Time To Make History (AKIRA YAMAOKA Remix)"
+      },
+      "artist": {
+        "en": "目黒 将司 Remixed by 山岡 晃",
+        "jp": "目黒 将司 Remixed by 山岡 晃"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/444_mai_sel_timetomakehistory_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 190,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=obaekKxutFw",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Let's go! Onmyoji",
+        "jp": "レッツゴー!陰陽師"
+      },
+      "artist": {
+        "en": "“SHIN-GOKETSUJI ICHIZOKU -Bonnoukaihou-”",
+        "jp": "「新豪血寺一族 -煩悩解放-」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/278_mai_sel_onmyouji_01.jpg",
+      "version": "GreeN+",
+      "bpm": 150,
+      "level": {
+        "easy": "2",
+        "basic": "3",
+        "advanced": "6",
+        "expert": "8",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=PumFnlu9EIY",
+        "niconico": "www.nicovideo.jp/watch/sm9"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "OPA! OPA! RACER -GMT mashup-",
+        "jp": "オパ! オパ! RACER -GMT mashup-"
+      },
+      "artist": {
+        "en": "COSIO(ZUNTATA/TAITO)“FANTASY ZONE”“RIDGE RACER”",
+        "jp": "COSIO(ZUNTATA/TAITO)「ファンタジーゾーン」「RIDGE RACER」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/346_TAITO_mashup_re01.jpg",
+      "version": "GreeN+",
+      "bpm": 172,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=k-dJqTmi0Ow",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Densha de Densha de OPA!OPA!OPA! -GMT mashup-",
+        "jp": "電車で電車でOPA!OPA!OPA! -GMT mashup-"
+      },
+      "artist": {
+        "en": "Yuji Masubuchi(BNGI)“Densha de GO!”“FANTASY ZONE”",
+        "jp": "Yuji Masubuchi(BNGI)「電車でGO!」「ファンタジーゾーン」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/347_BMG_mashup.jpg",
+      "version": "GreeN+",
+      "bpm": 134,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=nhvdXXHhvdI",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "RIDGE de RIDGE de GO!GO!GO! -GMT mashup-",
+        "jp": "リッジでリッジでGO!GO!GO! -GMT mashup-"
+      },
+      "artist": {
+        "en": "Hiro(SEGA)“RIDGE RACER”“Densha de GO!”",
+        "jp": "Hiro(SEGA)「RIDGE RACER」「電車でGO!」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/345_SEGA_mashup.jpg",
+      "version": "GreeN+",
+      "bpm": 146,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=WYvx1FqSXVI",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "FANTASY ZONE OPA-OPA! -GMT remix-",
+        "jp": "ファンタジーゾーン OPA-OPA! -GMT remix-"
+      },
+      "artist": {
+        "en": "Hiro(SEGA)“FANTASY ZONE”",
+        "jp": "Hiro(SEGA)「ファンタジーゾーン」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/342_SEGA_reborn.jpg",
+      "version": "GreeN+",
+      "bpm": 142,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=3vW3x0zGo7Y",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "DADDY MULK -Groove remix-",
+        "jp": "DADDY MULK -Groove remix-"
+      },
+      "artist": {
+        "en": "Performed by SEGA Sound Unit [H.]",
+        "jp": "Performed by SEGA Sound Unit [H.]"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/115_mai_jacket_daddymulk_01.jpg",
+      "version": "GreeN",
+      "bpm": 154,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=caZ3iwKr0sQ",
+        "niconico": "www.nicovideo.jp/watch/sm28674014"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "FUJIN Rumble",
+        "jp": "FUJIN Rumble"
+      },
+      "artist": {
+        "en": "COSIO(ZUNTATA)「グルーヴコースター」より",
+        "jp": "COSIO(ZUNTATA)「グルーヴコースター」より"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/FUJIN%20Rumble_rogo.jpg",
+      "version": "ORANGE",
+      "bpm": 192,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=OD9pX_VkeV8",
+        "niconico": "http://www.nicovideo.jp/watch/sm27817083"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Got more raves?",
+        "jp": "Got more raves?"
+      },
+      "artist": {
+        "en": "E.G.G.「グルーヴコースター」より",
+        "jp": "E.G.G.「グルーヴコースター」より"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/390_mai_jacket_gotmoreraves_01.jpg",
+      "version": "ORANGE",
+      "bpm": 266,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=bd-yIG43zLg",
+        "niconico": "http://www.nicovideo.jp/watch/sm23801792"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "夜明けまであと3秒",
+        "jp": "夜明けまであと3秒"
+      },
+      "artist": {
+        "en": "BNSI（Taku Inoue）「シンクロニカ」より",
+        "jp": "BNSI（Taku Inoue）「シンクロニカ」より"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/556_mms_yoakemadeato3byou.jpg",
+      "version": "MURASAKi",
+      "bpm": 182,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=3waf9OHSUrI",
+        "niconico": "http://www.nicovideo.jp/watch/sm27665397"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Ignis Danse",
+        "jp": "Ignis Danse"
+      },
+      "artist": {
+        "en": "Yuji Masubuchi「太鼓の達人」より",
+        "jp": "Yuji Masubuchi「太鼓の達人」より"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/385_Ignis-Danse.jpg",
+      "version": "ORANGE",
+      "bpm": 246,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=JTCYJtPGKAg",
+        "niconico": "http://www.nicovideo.jp/watch/sm30478604"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "きたさいたま2000",
+        "jp": "きたさいたま2000"
+      },
+      "artist": {
+        "en": "LindaAI-CUE(BNGI)「太鼓の達人」より",
+        "jp": "LindaAI-CUE(BNGI)「太鼓の達人」より"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/388_mai_jacket_kitasaitama2000_01.jpg",
+      "version": "ORANGE",
+      "bpm": 222,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "11",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=M90q21ctDCM",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Scars of FAUNA",
+        "jp": "Scars of FAUNA"
+      },
+      "artist": {
+        "en": "猫叉Master「jubeat」より",
+        "jp": "猫叉Master「jubeat」より"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/386_FIX_Scars-of-FAUNA.jpg",
+      "version": "ORANGE",
+      "bpm": 165,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=AWO_nVJSTww",
+        "niconico": "www.nicovideo.jp/watch/sm25024082"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "FLOWER",
+        "jp": "FLOWER"
+      },
+      "artist": {
+        "en": "DJ YOSHITAKA「jubeat」より",
+        "jp": "DJ YOSHITAKA「jubeat」より"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/389_mai_jacket_flower_01.jpg",
+      "version": "ORANGE",
+      "bpm": 173,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=3K6OnRqo4og",
+        "niconico": "http://www.nicovideo.jp/watch/sm28425275"
+      },
+      "regionlocked": false
+    }
+  ],
   "original": []
 }
