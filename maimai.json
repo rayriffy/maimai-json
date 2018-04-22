@@ -4579,6 +4579,578 @@
         "niconico": ""
       },
       "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "kamigaminoinori",
+        "jp": "神々の祈り"
+      },
+      "artist": {
+        "en": "maikaze/sasaasuka",
+        "jp": "舞風-MAIKAZE/沙紗飛鳥"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/309_mai_sel_kamigami_01.jpg",
+      "version": "GreeN+",
+      "bpm": 130,
+      "level": {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "6",
+        "expert": "7+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=zYSRpWhiS3I",
+        "niconico": "http://www.nicovideo.jp/watch/sm26818271"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "negaiwoyobukisetsu",
+        "jp": "願いを呼ぶ季節"
+      },
+      "artist": {
+        "en": "maikaze/tokine",
+        "jp": "舞風-MAIKAZE/時音-TOKINE"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_negaiwoyobukisetsu_01.jpg",
+      "version": "PiNK",
+      "bpm": 170,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=vA6LbEIQmnE",
+        "niconico": "http://www.nicovideo.jp/watch/sm26479110"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "akeboshi rocket",
+        "jp": "明星ロケット"
+      },
+      "artist": {
+        "en": "kisida kyoudan &The akeboshi rockets",
+        "jp": "岸田教団＆THE明星ロケッツ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/296_mai_jacket_akeboshi_01.jpg",
+      "version": "ORANGE",
+      "bpm": 163,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10+",
+        "remaster": "11"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=A7k1uP-SsXo",
+        "niconico": "http://www.nicovideo.jp/watch/sm9166766"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "hiiro no dance",
+        "jp": "緋色のDance"
+      },
+      "artist": {
+        "en": "kisida kyoudan &The akeboshi rockets",
+        "jp": "岸田教団＆THE明星ロケッツ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/295_mai_jacket_hiiro_dance_01.jpg",
+      "version": "ORANGE",
+      "bpm": 155,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": "12"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=2SZ79E9kTR4",
+        "niconico": "http://www.nicovideo.jp/watch/sm15763042"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "YU-MU",
+        "jp": "YU-MU"
+      },
+      "artist": {
+        "en": "kisida kyoudan &The akeboshi rockets",
+        "jp": "岸田教団＆THE明星ロケッツ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_yumu_01.jpg",
+      "version": "PiNK",
+      "bpm": 160,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=GSz9uiq27j0",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "～AETERNITAS LUDOLOGY～",
+        "jp": "エテルニタス・ルドロジー"
+      },
+      "artist": {
+        "en": "IRON ATTACK!",
+        "jp": "IRON ATTACK!"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/539_mms_aeternitas.jpg",
+      "version": "PiNK+",
+      "bpm": 178,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=EQDiLoPS8Qw",
+        "niconico": "http://www.nicovideo.jp/watch/sm9525746"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Epikouros no niji wa mou mienai",
+        "jp": "エピクロスの虹はもう見えない"
+      },
+      "artist": {
+        "en": "SYNC.ART'S feat. Misato",
+        "jp": "SYNC.ART'S feat. 美里"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/310_mai_sel_epicurus_01.jpg",
+      "version": "GreeN+",
+      "bpm": 155,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=a1h1L_EhvyY",
+        "niconico": "http://www.nicovideo.jp/watch/sm2065352"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Four-Dimensional Warp Device",
+        "jp": "四次元跳躍機関"
+      },
+      "artist": {
+        "en": "koutaq",
+        "jp": "koutaq"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/438_mai_sel_yojigenchoyaku_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 135,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ISeCt_61unM",
+        "niconico": "http://www.nicovideo.jp/watch/sm1776148"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Maiden's Illusionary Funeral Elegy - Necro Fantasia",
+        "jp": "少女幻葬戦慄曲 ～ Necro Fantasia"
+      },
+      "artist": {
+        "en": "dBu",
+        "jp": "どぶウサギ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_necrofantasia_01.jpg",
+      "version": "PiNK",
+      "bpm": 182,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=e0Nyv2E2v0E",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Lunate Elf - Birthday Festival of the Moon",
+        "jp": "妖精村の月誕祭 ～Lunate Elf"
+      },
+      "artist": {
+        "en": "dBu",
+        "jp": "どぶウサギ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/640_mms_youseimura.jpg",
+      "version": "MURASAKi+",
+      "bpm": 132,
+      "level": {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=DGqhNcyODSA",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Jimang Shot",
+        "jp": "Jimang Shot"
+      },
+      "artist": {
+        "en": "JIMANG",
+        "jp": "じまんぐ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_jimangshot_01.jpg",
+      "version": "PiNK",
+      "bpm": 164,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=01O1H81jOmc",
+        "niconico": "www.nicovideo.jp/watch/sm11651143"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "TEWI！ ～EIENTEWIVer～",
+        "jp": "ってゐ！～えいえんてゐVer～"
+      },
+      "artist": {
+        "en": "SEKKENYA",
+        "jp": "石鹸屋"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/312_mai_jacket_ttei_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 156,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10+",
+        "remaster": "11"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=7aiAL3cLdUg",
+        "niconico": "http://www.nicovideo.jp/watch/sm5597644"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "toho yoyomu -the maximum moving about-",
+        "jp": "東方妖々夢 ～the maximum moving about～"
+      },
+      "artist": {
+        "en": "SEKKENYA",
+        "jp": "石鹸屋"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_tohoyoyomu_01.jpg",
+      "version": "PiNK",
+      "bpm": 197,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "8",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Xl3q17bEPvw",
+        "niconico": "http://www.nicovideo.jp/watch/nm8218342"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Yet Another ”drizzly rain”",
+        "jp": "Yet Another ”drizzly rain”"
+      },
+      "artist": {
+        "en": "myu314 feat.amane(COOL&CREATE)",
+        "jp": "myu314 feat.あまね(COOL&CREATE)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/437_mai_sel_yetanother_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 175,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=eZ4rtOsmu0A",
+        "niconico": "http://www.nicovideo.jp/watch/sm2162890"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Shiawase Usagi",
+        "jp": "シアワセうさぎ"
+      },
+      "artist": {
+        "en": "amane+beatMARIO(COOL&CREATE)",
+        "jp": "あまね＋ビートまりお(COOL＆CREATE)"
+      },
+      "image_url": "",
+      "version": "GreeN+",
+      "bpm": 140,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "7",
+        "master": "9+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=QsCFinkF8BA",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Saisoku Saikou Shutter Girl",
+        "jp": "最速最高シャッターガール"
+      },
+      "artist": {
+        "en": "beatMARIO(COOL＆CREATE)",
+        "jp": "ビートまりお(COOL＆CREATE)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/320_mai_sel_shuttergirl_01.jpg",
+      "version": "GreeN+",
+      "bpm": 160,
+      "level": {
+        "easy": "2",
+        "basic": "3",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=-rsvhw-2V9Y",
+        "niconico": "http://www.nicovideo.jp/watch/sm6246365"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Saishuu kichiku imouto ichibu koe",
+        "jp": "最終鬼畜妹・一部声"
+      },
+      "artist": {
+        "en": "beatMARIO",
+        "jp": "ビートまりお"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/439_mai_sel_saishuukichiku_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=vzeoNLYd5Pg",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "USATEI",
+        "jp": "ウサテイ"
+      },
+      "artist": {
+        "en": "あまね＋ビートまりお(COOL＆CREATE)",
+        "jp": "Amane + beatMARIO(COOL＆CREATE)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/224_mai_sel_usatei_01.jpg",
+      "version": "GreeN",
+      "bpm": 190,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=sS0tfDFVNTY",
+        "niconico": "http://www.nicovideo.jp/watch/sm22152320"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Help me, ERINNNNNN!!",
+        "jp": "Help me, ERINNNNNN!!"
+      },
+      "artist": {
+        "en": "beatMARIO(COOL＆CREATE)",
+        "jp": "ビートまりお(COOL＆CREATE)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/203_mai_jacket_erin_01.jpg",
+      "version": "GreeN",
+      "bpm": 183,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=wEv7YzFfTFE",
+        "niconico": "http://www.nicovideo.jp/watch/sm7843842"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Calamity Fortune",
+        "jp": "Calamity Fortune"
+      },
+      "artist": {
+        "en": "LeaF",
+        "jp": "LeaF"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/641_mms_calamity_fortune.jpg",
+      "version": "MURASAKi+",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=3zhG05LlROg",
+        "niconico": "http://www.nicovideo.jp/watch/sm20416635"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Night of Knights/Knight of Nights",
+        "jp": "ナイト・オブ・ナイツ"
+      },
+      "artist": {
+        "en": "beatMARIO(COOL＆CREATE)",
+        "jp": "ビートまりお(COOL＆CREATE)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/204_mai_jacket_nightofknights_01.jpg",
+      "version": "GreeN",
+      "bpm": 180,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "10",
+        "master": "11+",
+        "remaster": "13"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=jXv5sOwBxGg",
+        "niconico": "http://www.nicovideo.jp/watch/sm4741655"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Bad Apple!! feat nomico",
+        "jp": "Bad Apple!! feat nomico"
+      },
+      "artist": {
+        "en": "Masayoshi Minoshima",
+        "jp": "Masayoshi Minoshima"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/200_mai_jacket_badapple_01.jpg",
+      "version": "GreeN",
+      "bpm": 138,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "10+",
+        "remaster": "12"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=4-Z0wF6N6aY",
+        "niconico": "www.nicovideo.jp/watch/sm8783173"
+      },
+      "regionlocked": false
     }
   ],
   "sega": [],
