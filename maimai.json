@@ -12,7 +12,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/607_mms_zenzenzense.jpg",
       "version": "MURASAKi+",
       "bpm": 190,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -38,7 +38,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180220_4.jpg",
       "version": "MiLK",
       "bpm": 167,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -66,7 +66,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/620_mms_tokyo_retro.jpg",
       "version": "MURASAKi+",
       "bpm": 126,
-      "level" : {
+      "level": {
         "easy": "1",
         "basic": "4",
         "advanced": "6",
@@ -92,7 +92,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/725_maiMilk07.jpg",
       "version": "MiLK",
       "bpm": 95,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -118,7 +118,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180206_4.jpg",
       "version": "MiLK",
       "bpm": 252,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "6",
@@ -144,7 +144,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/711_maiMilk08.jpg",
       "version": "MiLK",
       "bpm": 181,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7+",
@@ -170,7 +170,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180206_3.jpg",
       "version": "MiLK",
       "bpm": 200,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7+",
@@ -196,7 +196,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/726_maiMilk06.jpg",
       "version": "MiLK",
       "bpm": 222,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "4",
         "advanced": "6",
@@ -222,7 +222,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180306_1.jpg",
       "version": "MiLK",
       "bpm": 154,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "7",
@@ -248,7 +248,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180306_2.jpg",
       "version": "MiLK",
       "bpm": 184,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -274,7 +274,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180320_1.jpg",
       "version": "MiLK",
       "bpm": 170,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -300,7 +300,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180320_1.jpg",
       "version": "MiLK",
       "bpm": 208,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "5",
         "advanced": "6",
@@ -326,7 +326,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180320_3.jpg",
       "version": "MiLK",
       "bpm": 158,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -352,7 +352,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180320_4.jpg",
       "version": "MiLK",
       "bpm": 190,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7",
@@ -378,7 +378,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180206_1.jpg",
       "version": "MiLK",
       "bpm": 138,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -404,7 +404,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180109_2.jpg",
       "version": "MiLK",
       "bpm": 167,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -430,7 +430,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180109_1.jpg",
       "version": "MiLK",
       "bpm": 180,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -456,7 +456,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180109_3.jpg",
       "version": "MiLK",
       "bpm": 200,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "5",
         "advanced": "7",
@@ -482,7 +482,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/610_mms_reincarnation.jpg",
       "version": "MURASAKi+",
       "bpm": 185,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7",
@@ -508,7 +508,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/288_mai_sel_rokuchounen_01.jpg",
       "version": "ORANGE+",
       "bpm": 186,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7",
@@ -534,7 +534,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/432_mms_kakusicommand.jpg",
       "version": "MURASAKi+",
       "bpm": 142,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "8",
@@ -560,7 +560,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/655_mms_fragile.jpg",
       "version": "MURASAKi+",
       "bpm": 127,
-      "level" : {
+      "level": {
         "easy": "1",
         "basic": "4",
         "advanced": "7",
@@ -586,7 +586,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/663_mms_chigau.jpg",
       "version": "MURASAKi+",
       "bpm": 181,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7",
@@ -612,7 +612,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/646_mms_meitanntei.jpg",
       "version": "MURASAKi+",
       "bpm": 140,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "5",
         "advanced": "6",
@@ -638,7 +638,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/621_mms_arrow.jpg",
       "version": "MURASAKi+",
       "bpm": 131,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -664,7 +664,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/514_mms_healthyend.jpg",
       "version": "MURASAKi+",
       "bpm": 150,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "7",
@@ -690,7 +690,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/299_mai_jacket_lostone_01.jpg",
       "version": "ORANGE+",
       "bpm": 162,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -716,7 +716,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/125_mai_jacket_senbonsakura_01.jpg",
       "version": "maimai+",
       "bpm": 154,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "7",
@@ -742,7 +742,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/553_mms_chururira.jpg",
       "version": "MURASAKi",
       "bpm": 220,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "5",
         "advanced": "7",
@@ -768,7 +768,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/417_mai_jacket_umiyuri_01.jpg",
       "version": "ORANGE+",
       "bpm": 120,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -794,7 +794,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/587_mms_sirayuki.jpg",
       "version": "MURASAKi+",
       "bpm": 210,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "5",
         "advanced": "7",
@@ -820,7 +820,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/411_mai_jacket_syoshitsu_01.jpg",
       "version": "PiNK",
       "bpm": 240,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "8",
@@ -846,7 +846,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/188_mai_sel_amanojaku_01.jpg",
       "version": "GreeN",
       "bpm": 200,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7",
@@ -872,7 +872,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_tyubyougekihatu_01.jpg",
       "version": "PiNK",
       "bpm": 190,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7",
@@ -898,7 +898,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/191_mai_jacket_noushou_01.jpg",
       "version": "GreeN",
       "bpm": 155,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "4",
         "advanced": "6",
@@ -924,7 +924,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/447_mai_jacket_plusdanshi_01.jpg",
       "version": "PiNK",
       "bpm": 180,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7",
@@ -950,7 +950,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/382_mai_jacket_okotyama_01.jpg",
       "version": "",
       "bpm": 0,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -976,7 +976,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180109_4.jpg",
       "version": "MURASAKi",
       "bpm": 180,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "7",
@@ -1002,7 +1002,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/508_mms_rennaisaiban.jpg",
       "version": "PiNK+",
       "bpm": 134,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -1028,7 +1028,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/282_mai_sel_karakuri_01.jpg",
       "version": "GreeN+",
       "bpm": 102,
-      "level" : {
+      "level": {
         "easy": "1",
         "basic": "3",
         "advanced": "5",
@@ -1054,7 +1054,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/552_mms_ghostrule.jpg",
       "version": "MURASAKi",
       "bpm": 210,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "5",
         "advanced": "7+",
@@ -1080,7 +1080,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/436_mai_sel_ojamamushi_01.jpg",
       "version": "ORANGE+",
       "bpm": 143,
-      "level" : {
+      "level": {
         "easy": "1",
         "basic": "3",
         "advanced": "6",
@@ -1106,7 +1106,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/419_mai_sel_streamingheart_01.jpg",
       "version": "ORANGE+",
       "bpm": 210,
-      "level" : {
+      "level": {
         "easy": "3",
         "basic": "4",
         "advanced": "7",
@@ -1132,7 +1132,7 @@
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/409_mai_jacket_mousouzei_01.jpg",
       "version": "ORANGE+",
       "bpm": 134,
-      "level" : {
+      "level": {
         "easy": "2",
         "basic": "4",
         "advanced": "6",
@@ -1145,18 +1145,530 @@
         "niconico": "http://www.niconico.jp/watch/sm21764582"
       },
       "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "DOKUSENYOKU",
+        "jp": "毒占欲"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/358_mai_jacket_dokusenyoku_01.jpg",
+      "version": "ORANGE",
+      "bpm": 117,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "http://www.youtube.com/watch?v=3bEikMqDd3M",
+        "niconico": "http://www.niconico.jp/watch/sm22783517"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Mukashi Mukashi no Kyou no Boku",
+        "jp": "むかしむかしのきょうのぼく"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/284_mai_sel_mukashi2_01.jpg",
+      "version": "GreeN+",
+      "bpm": 130,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=HK_Ct9t1U6s",
+        "niconico": "http://www.niconico.jp/watch/sm12850213"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Ni SoKu Ho Kou",
+        "jp": "二息歩行"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/341_mai_sel_nisokuhokou_01.jpg",
+      "version": "GreeN+",
+      "bpm": 180,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=cFbWl2aPdTk",
+        "niconico": "http://www.niconico.jp/watch/sm8061508"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Mozaik Role",
+        "jp": "モザイクロール"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/190_mai_jacket_mosaic_01.jpg",
+      "version": "GreeN",
+      "bpm": 145,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=DnLFVUi3oOU",
+        "niconico": "http://www.niconico.jp/watch/sm11398357"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Yowamushi Mont Blanc",
+        "jp": "弱虫モンブラン"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/189_mai_jacket_yowamushi_01.jpg",
+      "version": "GreeN",
+      "bpm": 120,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=B-A2eYlbrwQ",
+        "niconico": "http://www.niconico.jp/watch/sm10393864"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "39",
+        "jp": "39"
+      },
+      "artist": {
+        "en": "sasakure.UK x DECO*27",
+        "jp": "sasakure.UK x DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/146_mai_sel_sankyu_01.jpg",
+      "version": "maimai+",
+      "bpm": 175,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "http://www.youtube.com/watch?v=ecU_uJRzhfk",
+        "niconico": "http://www.nicovideo.jp/watch/1341499584"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "＊Hello, Planet.",
+        "jp": "＊ハロー、プラネット。"
+      },
+      "artist": {
+        "en": "\tsasakure.UK",
+        "jp": "\tsasakure.UK"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/185_mai_jacket_helloplanet_01.jpg",
+      "version": "GreeN",
+      "bpm": 150,
+      "level": {
+        "easy": "2",
+        "basic": "3",
+        "advanced": "6",
+        "expert": "7+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=1gHHgx8bTxc",
+        "niconico": "http://www.niconico.jp/watch/sm7138245"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Mr. Wonderland",
+        "jp": "Mr. Wonderland"
+      },
+      "artist": {
+        "en": "sasakure.UK",
+        "jp": "sasakure.UK"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/522_mms_mr_wonderland.jpg",
+      "version": "PiNK+",
+      "bpm": 140,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=rVJpCyvJR2k",
+        "niconico": "http://www.nicovideo.jp/watch/1369238005"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "YOSHIWARALAMENTO",
+        "jp": "吉原ラメント"
+      },
+      "artist": {
+        "en": "Asa",
+        "jp": "亜沙"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/580_mms_yoshiwararamento.jpg",
+      "version": "MURASAKi",
+      "bpm": 192,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=NKYqJ3UvjIk",
+        "niconico": "http://www.nicovideo.jp/watch/sm18395392"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "KOKORO",
+        "jp": "ココロ"
+      },
+      "artist": {
+        "en": "TORABORUTA",
+        "jp": "トラボルタ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/516_mms_kokoro.jpg",
+      "version": "MURASAKi",
+      "bpm": 140,
+      "level": {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=DxvVR63KAcM",
+        "niconico": "http://www.nicovideo.jp/watch/sm2500648"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Please don‘t worry",
+        "jp": "ゆっくりしていってね！！！"
+      },
+      "artist": {
+        "en": "kyouken",
+        "jp": "今日犬"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/519_mms_yukkurisiteittene.jpg",
+      "version": "MURASAKi",
+      "bpm": 221,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=aO31QAwTyaM",
+        "niconico": "http://www.niconico.jp/watch/sm2731089"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Living ghost is alive",
+        "jp": "生きてるおばけは生きている"
+      },
+      "artist": {
+        "en": "Utsu-P feat.flower",
+        "jp": "鬱P feat.flower"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/565_mms_ikiteruobake.jpg",
+      "version": "MURASAKi",
+      "bpm": 140,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=QvMNzt3iXyg",
+        "niconico": "http://www.nicovideo.jp/watch/sm28254204"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Dance Orchestra",
+        "jp": "踊れオーケストラ"
+      },
+      "artist": {
+        "en": "YASUHIRO",
+        "jp": "YASUHIRO(康寛)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/599_mms_odoreorchestra.jpg",
+      "version": "MURASAKi",
+      "bpm": 180,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=5XcRbKUKSdY",
+        "niconico": "http://www.nicovideo.jp/watch/sm28694937"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Kunoichi demo Koi ga shitai",
+        "jp": "クノイチでも恋がしたい"
+      },
+      "artist": {
+        "en": "MikitoP",
+        "jp": "みきとP"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/515_mms_kunoichi.jpg",
+      "version": "PiNK+",
+      "bpm": 185,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=RCLUalvi2Uo",
+        "niconico": "http://www.nicovideo.jp/watch/sm20413055"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "iarufanclub",
+        "jp": "いーあるふぁんくらぶ"
+      },
+      "artist": {
+        "en": "MikitoP",
+        "jp": " みきとP"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/256_mai_jacket_yierfunclub_01.jpg",
+      "version": "GreeN",
+      "bpm": 145,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "7",
+        "master": "10",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=1HLjnNEaD2A",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Sekishinsei：Kamatoto Araryoji",
+        "jp": "赤心性：カマトト荒療治"
+      },
+      "artist": {
+        "en": "Suzumu",
+        "jp": "スズム"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/401_mai_jacket_sekishinsei_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 205,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "8",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=AxBeOPByxxs",
+        "niconico": "http://www.nicovideo.jp/watch/sm22793581"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Inokori Sensei",
+        "jp": "イノコリ先生"
+      },
+      "artist": {
+        "en": "HoneyWorks",
+        "jp": "HoneyWorks"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_inokoriteacher_01.jpg",
+      "version": "PiNK",
+      "bpm": 162,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "http://www.youtube.com/watch?v=BkzVOKqTcBo",
+        "niconico": "http://www.youtube.com/watch?v=BkzVOKqTcBo"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "ECHO",
+        "jp": "ECHO"
+      },
+      "artist": {
+        "en": "CIRCRUSH",
+        "jp": "CIRCRUSH"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/521_mms_echo.jpg",
+      "version": "PiNK+",
+      "bpm": 140,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=cQKGUgOfD8U",
+        "niconico": "http://www.niconico.jp/watch/sm24643818"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "KIMINO YOZORA SHOUKAIHAN",
+        "jp": "キミノヨゾラ哨戒班"
+      },
+      "artist": {
+        "en": "Orangestar",
+        "jp": "Orangestar"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/507_mms_kiminoyozora.jpg",
+      "version": "PiNK+",
+      "bpm": 185,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=XogSflwXgpw",
+        "niconico": "http://www.niconico.jp/watch/sm24276234"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "\tSHINDESHIMAUTOWA NASAKENAI",
+        "jp": "しんでしまうとはなさけない！"
+      },
+      "artist": {
+        "en": "WONODERFUL★OPPORTUNITY!",
+        "jp": "ワンダフル☆オポチュニティ！"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/523_mms_shindeshimautowa.jpg",
+      "version": "PiNK+",
+      "bpm": 174,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "8+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=XZnmfDByGWU",
+        "niconico": "http://www.nicovideo.jp/watch/sm20331479"
+      },
+      "regionlocked": false
     }
   ],
-  "touhou": [
-  
-  ],
-  "sega": [
-  
-  ],
-  "game": [
-  
-  ],
-  "original": [
-  
-  ]
+  "touhou": [],
+  "sega": [],
+  "game": [],
+  "original": []
 }
