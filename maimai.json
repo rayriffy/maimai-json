@@ -18,11 +18,11 @@
         "advanced": "6",
         "expert": "8",
         "master": "11",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=PDSkFeMVNFs",
-        "niconico": null
+        "niconico": ""
       },
       "regionlocked": false
     },
@@ -44,11 +44,11 @@
         "advanced": "6",
         "expert": "9",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=NM3t2ie6Yzc",
-        "niconico": null
+        "niconico": ""
       },
       "regionlocked": false
     }
@@ -72,7 +72,7 @@
         "advanced": "6",
         "expert": "8",
         "master": "10",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=17WsZ2J1f9s",
@@ -98,7 +98,7 @@
         "advanced": "6",
         "expert": "9",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=AS4q9yaWJkI",
@@ -124,7 +124,7 @@
         "advanced": "6",
         "expert": "10",
         "master": "12+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=qnX2CdOBcDI",
@@ -150,7 +150,7 @@
         "advanced": "7+",
         "expert": "10",
         "master": "12+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=grdy6rLbQ-c",
@@ -176,7 +176,7 @@
         "advanced": "7+",
         "expert": "10",
         "master": "12+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=IN3kbST908c",
@@ -202,7 +202,7 @@
         "advanced": "6",
         "expert": "9+",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=P_CSdxSGfaA",
@@ -228,7 +228,7 @@
         "advanced": "7",
         "expert": "9+",
         "master": "12+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=OskXF3s0UT8",
@@ -254,7 +254,7 @@
         "advanced": "6",
         "expert": "9",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=XVoXZzgO8Ew",
@@ -280,7 +280,7 @@
         "advanced": "6",
         "expert": "8+",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=AWVvuh9L2cc",
@@ -306,7 +306,7 @@
         "advanced": "6",
         "expert": "9",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=nCO9j_L894U",
@@ -332,7 +332,7 @@
         "advanced": "6",
         "expert": "9",
         "master": "11",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=zLmopbS97aY",
@@ -358,7 +358,7 @@
         "advanced": "7",
         "expert": "9+",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=xMXcO3JCt6I",
@@ -384,7 +384,7 @@
         "advanced": "6",
         "expert": "8+",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=QpgABOmLGEk",
@@ -410,7 +410,7 @@
         "advanced": "6",
         "expert": "9",
         "master": "11",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=79N1O0lF0GY",
@@ -436,7 +436,7 @@
         "advanced": "6",
         "expert": "8+",
         "master": "11",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=ZuT3xYLW7vA",
@@ -462,7 +462,7 @@
         "advanced": "7",
         "expert": "9+",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "http://www.youtube.com/watch?v=aPb-MTcpNbE",
@@ -488,7 +488,7 @@
         "advanced": "7",
         "expert": "9+",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=1EXGjYk_xXk",
@@ -514,7 +514,7 @@
         "advanced": "7",
         "expert": "9",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=Om3MTou2kPg",
@@ -540,7 +540,7 @@
         "advanced": "8",
         "expert": "10+",
         "master": "12+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=lwT4h6x3UM0",
@@ -566,7 +566,7 @@
         "advanced": "7",
         "expert": "8",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=a_rrj1Xh5LI",
@@ -592,7 +592,7 @@
         "advanced": "7",
         "expert": "9",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=AOvvHI1_5mI",
@@ -618,7 +618,7 @@
         "advanced": "6",
         "expert": "9+",
         "master": "11",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=j3y7bJxOUZQ",
@@ -644,7 +644,7 @@
         "advanced": "6",
         "expert": "10",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=V3cKo8OffwI",
@@ -670,7 +670,7 @@
         "advanced": "7",
         "expert": "9+",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=u_MP5RNrLx0",
@@ -722,7 +722,7 @@
         "advanced": "7",
         "expert": "9",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=shs0rAiwsGQ",
@@ -748,7 +748,7 @@
         "advanced": "7",
         "expert": "9",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=_j0kfGNwIlw",
@@ -774,7 +774,7 @@
         "advanced": "6",
         "expert": "8",
         "master": "12",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=7JANm3jOb2k",
@@ -800,7 +800,7 @@
         "advanced": "7",
         "expert": "9+",
         "master": "11+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "https://youtu.be/oAVDdEfiy4o",
@@ -826,11 +826,323 @@
         "advanced": "8",
         "expert": "10",
         "master": "12+",
-        "remaster": null
+        "remaster": ""
       },
       "listen": {
         "youtube": "http://www.youtube.com/watch?v=DouheoH8GTs",
         "niconico": "http://www.nicovideo.jp/watch/sm2937784"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "amanojaku",
+        "jp": "天ノ弱"
+      },
+      "artist": {
+        "en": "164",
+        "jp": "164"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/188_mai_sel_amanojaku_01.jpg",
+      "version": "GreeN",
+      "bpm": 200,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=2-zPY0vrpjQ",
+        "niconico": "http://www.niconico.jp/watch/sm14583646"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Young disease outburst Boy",
+        "jp": "厨病激発ボーイ"
+      },
+      "artist": {
+        "en": "rerulili",
+        "jp": "れるりり"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_tyubyougekihatu_01.jpg",
+      "version": "PiNK",
+      "bpm": 190,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=o2ovsJkqaiM",
+        "niconico": "http://www.niconico.jp/watch/sm25223315"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "nou shou sakuretsu girl",
+        "jp": "脳漿炸裂ガール"
+      },
+      "artist": {
+        "en": "rerulili",
+        "jp": "れるりり"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/191_mai_jacket_noushou_01.jpg",
+      "version": "GreeN",
+      "bpm": 155,
+      "level" : {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Ey_NHZNYTeE",
+        "niconico": "http://www.niconico.jp/watch/sm19133907"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "＋♂",
+        "jp": "＋♂"
+      },
+      "artist": {
+        "en": "Giga/Reol dance ARSMAGNA",
+        "jp": "ギガ/れをる　ダンス　アルスマグナ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/447_mai_jacket_plusdanshi_01.jpg",
+      "version": "PiNK",
+      "bpm": 180,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=RIA-vEJB1Aw",
+        "niconico": "http://www.niconico.jp/watch/sm23134050"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "",
+        "jp": "おこちゃま戦争"
+      },
+      "artist": {
+        "en": "",
+        "jp": "ギガ/れをる"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/382_mai_jacket_okotyama_01.jpg",
+      "version": "",
+      "bpm": 0,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Getting Faster and Faster",
+        "jp": "だんだん早くなる"
+      },
+      "artist": {
+        "en": "40mP",
+        "jp": "40mP"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180109_4.jpg",
+      "version": "MURASAKi",
+      "bpm": 180,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "8+",
+        "master": "10+",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ggkRMKbb89A",
+        "niconico": "http://www.niconico.jp/watch/sm25658559"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Love Trial",
+        "jp": "恋愛裁判"
+      },
+      "artist": {
+        "en": "40mP",
+        "jp": "40mP"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/508_mms_rennaisaiban.jpg",
+      "version": "PiNK+",
+      "bpm": 134,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://youtu.be/TXzfQ0cP1P0",
+        "niconico": "http://www.niconico.jp/watch/sm23750267"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Karakuri Pierrot",
+        "jp": "からくりピエロ"
+      },
+      "artist": {
+        "en": "40mP",
+        "jp": "40mP"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/282_mai_sel_karakuri_01.jpg",
+      "version": "GreeN+",
+      "bpm": 102,
+      "level" : {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "5",
+        "expert": "8+",
+        "master": "10",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=xxFkW3PCT5M",
+        "niconico": "http://www.niconico.jp/watch/sm15022913"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Ghost Rule",
+        "jp": "ゴーストルール"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/552_mms_ghostrule.jpg",
+      "version": "MURASAKi",
+      "bpm": 210,
+      "level" : {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=KushW6zvazM",
+        "niconico": "https://www.youtube.com/watch?v=KushW6zvazM"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Ojamamushi",
+        "jp": "おじゃま虫"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/436_mai_sel_ojamamushi_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 143,
+      "level" : {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=wv2P0PLz9fw",
+        "niconico": "http://www.nicovideo.jp/watch/sm22872605"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Streaming Heart",
+        "jp": "ストリーミングハート"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/419_mai_sel_streamingheart_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 210,
+      "level" : {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=9DD6JvY06Ok",
+        "niconico": "http://www.nicovideo.jp/watch/sm23144598"
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Delusion Tax",
+        "jp": "妄想税"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/409_mai_jacket_mousouzei_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 134,
+      "level" : {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "http://www.youtube.com/watch?v=sWvZfwY8beg",
+        "niconico": "http://www.niconico.jp/watch/sm21764582"
       },
       "regionlocked": false
     }
