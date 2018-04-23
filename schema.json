@@ -182,19 +182,19 @@
         }
       }
     },
-    "nicovocloid": {
-      "$id": "/properties/nicovocloid",
+    "nicovocaloid": {
+      "$id": "/properties/nicovocaloid",
       "type": "array",
       "items": {
-        "$id": "/properties/nicovocloid/items",
+        "$id": "/properties/nicovocaloid/items",
         "type": "object",
         "properties": {
           "name": {
-            "$id": "/properties/nicovocloid/items/properties/name",
+            "$id": "/properties/nicovocaloid/items/properties/name",
             "type": "object",
             "properties": {
               "en": {
-                "$id": "/properties/nicovocloid/items/properties/name/properties/en",
+                "$id": "/properties/nicovocaloid/items/properties/name/properties/en",
                 "type": "string",
                 "title": "English",
                 "default": "",
@@ -203,7 +203,7 @@
                 ]
               },
               "jp": {
-                "$id": "/properties/nicovocloid/items/properties/name/properties/jp",
+                "$id": "/properties/nicovocaloid/items/properties/name/properties/jp",
                 "type": "string",
                 "title": "Japanese",
                 "default": "",
@@ -214,11 +214,11 @@
             }
           },
           "artist": {
-            "$id": "/properties/nicovocloid/items/properties/artist",
+            "$id": "/properties/nicovocaloid/items/properties/artist",
             "type": "object",
             "properties": {
               "en": {
-                "$id": "/properties/nicovocloid/items/properties/artist/properties/en",
+                "$id": "/properties/nicovocaloid/items/properties/artist/properties/en",
                 "type": "string",
                 "title": "English",
                 "default": "",
@@ -227,7 +227,7 @@
                 ]
               },
               "jp": {
-                "$id": "/properties/nicovocloid/items/properties/artist/properties/jp",
+                "$id": "/properties/nicovocaloid/items/properties/artist/properties/jp",
                 "type": "string",
                 "title": "Japanese",
                 "default": "",
@@ -238,7 +238,7 @@
             }
           },
           "image_url": {
-            "$id": "/properties/nicovocloid/items/properties/image_url",
+            "$id": "/properties/nicovocaloid/items/properties/image_url",
             "type": "string",
             "title": "Image URL",
             "default": "",
@@ -247,7 +247,7 @@
             ]
           },
           "version": {
-            "$id": "/properties/nicovocloid/items/properties/version",
+            "$id": "/properties/nicovocaloid/items/properties/version",
             "type": "string",
             "title": "Version",
             "default": "",
@@ -256,7 +256,7 @@
             ]
           },
           "bpm": {
-            "$id": "/properties/nicovocloid/items/properties/bpm",
+            "$id": "/properties/nicovocaloid/items/properties/bpm",
             "type": "integer",
             "title": "BPM",
             "default": 0,
@@ -265,11 +265,11 @@
             ]
           },
           "level": {
-            "$id": "/properties/nicovocloid/items/properties/level",
+            "$id": "/properties/nicovocaloid/items/properties/level",
             "type": "object",
             "properties": {
               "easy": {
-                "$id": "/properties/nicovocloid/items/properties/level/properties/easy",
+                "$id": "/properties/nicovocaloid/items/properties/level/properties/easy",
                 "type": "string",
                 "title": "Easy",
                 "default": "",
@@ -278,7 +278,7 @@
                 ]
               },
               "basic": {
-                "$id": "/properties/nicovocloid/items/properties/level/properties/basic",
+                "$id": "/properties/nicovocaloid/items/properties/level/properties/basic",
                 "type": "string",
                 "title": "Basic",
                 "default": "",
@@ -287,7 +287,7 @@
                 ]
               },
               "advanced": {
-                "$id": "/properties/nicovocloid/items/properties/level/properties/advanced",
+                "$id": "/properties/nicovocaloid/items/properties/level/properties/advanced",
                 "type": "string",
                 "title": "Advanced",
                 "default": "",
@@ -296,7 +296,7 @@
                 ]
               },
               "expert": {
-                "$id": "/properties/nicovocloid/items/properties/level/properties/expert",
+                "$id": "/properties/nicovocaloid/items/properties/level/properties/expert",
                 "type": "string",
                 "title": "Expert",
                 "default": "",
@@ -305,7 +305,7 @@
                 ]
               },
               "master": {
-                "$id": "/properties/nicovocloid/items/properties/level/properties/master",
+                "$id": "/properties/nicovocaloid/items/properties/level/properties/master",
                 "type": "string",
                 "title": "Master",
                 "default": "",
@@ -314,7 +314,7 @@
                 ]
               },
               "remaster": {
-                "$id": "/properties/nicovocloid/items/properties/level/properties/remaster",
+                "$id": "/properties/nicovocaloid/items/properties/level/properties/remaster",
                 "type": "string",
                 "title": "ReMaster",
                 "default": "",
@@ -325,11 +325,11 @@
             }
           },
           "listen": {
-            "$id": "/properties/nicovocloid/items/properties/listen",
+            "$id": "/properties/nicovocaloid/items/properties/listen",
             "type": "object",
             "properties": {
               "youtube": {
-                "$id": "/properties/nicovocloid/items/properties/listen/properties/youtube",
+                "$id": "/properties/nicovocaloid/items/properties/listen/properties/youtube",
                 "type": "string",
                 "title": "YouTube URL",
                 "default": "",
@@ -338,7 +338,7 @@
                 ]
               },
               "niconico": {
-                "$id": "/properties/nicovocloid/items/properties/listen/properties/niconico",
+                "$id": "/properties/nicovocaloid/items/properties/listen/properties/niconico",
                 "type": "string",
                 "title": "niconico URL",
                 "default": "",
@@ -349,7 +349,7 @@
             }
           },
           "regionlocked": {
-            "$id": "/properties/nicovocloid/items/properties/regionlocked",
+            "$id": "/properties/nicovocaloid/items/properties/regionlocked",
             "type": "boolean",
             "title": "Region Locked?",
             "default": false,

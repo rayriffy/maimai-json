@@ -2,16 +2,16 @@
   "popanime": [
     {
       "name": {
-        "en": "Zenzenzense",
-        "jp": "前前前世"
+        "en": "Welcome to the Japari Park",
+        "jp": "ようこそジャパリパークへ"
       },
       "artist": {
-        "en": "RADWIMPS",
-        "jp": "RADWIMPSようこそジャパリパークへ"
+        "en": "どうぶつビスケッツ×PPP「けものフレンズ」",
+        "jp": "どうぶつビスケッツ×PPP「けものフレンズ」"
       },
-      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/607_mms_zenzenzense.jpg",
-      "version": "MURASAKi+",
-      "bpm": 190,
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/668_maiMilk01.jpg",
+      "version": "MiLK",
+      "bpm": 170,
       "level": {
         "easy": "2",
         "basic": "4",
@@ -21,39 +21,13 @@
         "remaster": ""
       },
       "listen": {
-        "youtube": "https://www.youtube.com/watch?v=PDSkFeMVNFs",
-        "niconico": ""
+        "youtube": "https://www.youtube.com/watch?v=xkMdLcB_vNU",
+        "niconico": "http://www.nicovideo.jp/watch/sm31104474"
       },
-      "regionlocked": false
-    },
-    {
-      "name": {
-        "en": "Miracle Shopping",
-        "jp": "ミラクル・ショッピング"
-      },
-      "artist": {
-        "en": "Maimi Tanaka",
-        "jp": "田中マイミ"
-      },
-      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180220_4.jpg",
-      "version": "MiLK",
-      "bpm": 167,
-      "level": {
-        "easy": "2",
-        "basic": "4",
-        "advanced": "6",
-        "expert": "9",
-        "master": "11+",
-        "remaster": ""
-      },
-      "listen": {
-        "youtube": "https://www.youtube.com/watch?v=NM3t2ie6Yzc",
-        "niconico": ""
-      },
-      "regionlocked": false
+      "regionlocked": true
     }
   ],
-  "nicovocloid": [
+  "nicovocaloid": [
     {
       "name": {
         "en": "Tokyo Retro",
