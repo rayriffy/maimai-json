@@ -7679,6 +7679,32 @@
         "niconico": ""
       },
       "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Candy Tall Woman",
+        "jp": "Candy Tall Woman"
+      },
+      "artist": {
+        "en": "naotyu- feat. Eri Sasaki",
+        "jp": "naotyu- feat. 佐々木恵梨"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180417_6.jpg",
+      "version": "MiLK",
+      "bpm": 190,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=BpgoNlFJPa0",
+        "niconico": ""
+      },
+      "regionlocked": false
     }
   ]
 }
