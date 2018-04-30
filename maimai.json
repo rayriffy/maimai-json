@@ -7705,6 +7705,84 @@
         "niconico": ""
       },
       "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Signature",
+        "jp": "Signature"
+      },
+      "artist": {
+        "en": "Palme",
+        "jp": "Palme"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180123_1.jpg",
+      "version": "MiLK",
+      "bpm": 128,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "10+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=XYxWxiez1BA",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "Magical Flavor",
+        "jp": "Magical Flavor"
+      },
+      "artist": {
+        "en": "DECO*27 feat.Tia",
+        "jp": "DECO*27 feat.Tia"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180123_4.jpg",
+      "version": "MiLK",
+      "bpm": 98,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=utXTSCC-Ddc",
+        "niconico": ""
+      },
+      "regionlocked": false
+    },
+    {
+      "name": {
+        "en": "YUBIKIRI",
+        "jp": "ユビキリ"
+      },
+      "artist": {
+        "en": "Michiru Yamane",
+        "jp": "山根ミチル"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/236_mms_yubikiri.png",
+      "version": "MURASAKi+",
+      "bpm": 174,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=CRG5uM92O8I",
+        "niconico": ""
+      },
+      "regionlocked": false
     }
   ]
 }
