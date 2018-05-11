@@ -914,15 +914,15 @@
     },
     {
       "name": {
-        "en": "",
+        "en": "Okocyama Sensou",
         "jp": "おこちゃま戦争"
       },
       "artist": {
-        "en": "",
+        "en": "Giga/Reol",
         "jp": "ギガ/れをる"
       },
       "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/382_mai_jacket_okotyama_01.jpg",
-      "version": "",
+      "version": "ORANGE",
       "bpm": 0,
       "level": {
         "easy": "2",
@@ -933,8 +933,8 @@
         "remaster": ""
       },
       "listen": {
-        "youtube": "",
-        "niconico": ""
+        "youtube": "https://www.youtube.com/watch?v=qYAmduGAwBQ",
+        "niconico": "http://www.nicovideo.jp/watch/sm22349544"
       },
       "regionlocked": false
     },
@@ -4927,7 +4927,7 @@
         "en": "amane+beatMARIO(COOL&CREATE)",
         "jp": "あまね＋ビートまりお(COOL＆CREATE)"
       },
-      "image_url": "",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/311_mai_sel_shiawaseusagi_01.jpg",
       "version": "GreeN+",
       "bpm": 140,
       "level": {
@@ -7167,7 +7167,7 @@
         "en": "sasakure.UK",
         "jp": "sasakure.UK"
       },
-      "image_url": "",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/324_mai_sel_jacktheripper_01.jpg",
       "version": "GreeN+",
       "bpm": 210,
       "level": {
@@ -7219,7 +7219,7 @@
         "en": "目黒 将司",
         "jp": "目黒 将司"
       },
-      "image_url": "",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/441_mai_sel_pursuingmytrueself_01.jpg",
       "version": "ORANGE+",
       "bpm": 119,
       "level": {
