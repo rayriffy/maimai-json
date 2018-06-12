@@ -1,3 +1,7 @@
+## WARNING!!!
+## This JSON schema is outdated!
+## Please stand by for updated schema
+
 {
   "$id": "maimai.json",
   "type": "object",
