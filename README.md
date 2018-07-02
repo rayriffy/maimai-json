@@ -1,6 +1,8 @@
 maimai-json
 ===========
 
+[![CircleCI](https://circleci.com/gh/rayriffy/maimai-json.svg?style=svg)](https://circleci.com/gh/rayriffy/maimai-json)
+
 maimai song list database in JSON format
 
 Schema
