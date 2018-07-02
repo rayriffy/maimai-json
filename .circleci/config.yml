@@ -1,0 +1,16 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/data
+    docker:
+      - image: rayriffy/yarn:latest
+    steps:
+      - checkout
+      - run:
+          name: Install packages
+          command: yarn global add jsonlint
+      - run:
+          name: Test file
+          command: jsonlint maimai.json
+      - store_artifacts:
+          path: ~/data
