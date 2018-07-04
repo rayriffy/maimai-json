@@ -1025,6 +1025,60 @@
       "listen_youtube": "https://www.youtube.com/watch?v=6kR44t-CLvI",
       "listen_niconico": null,
       "regionlocked": 0
+    },
+    {
+      "name_en": "POP TEAM EPIC",
+      "name_jp": "POP TEAM EPIC",
+      "artist_en": "上坂すみれ「ポプテピピック」",
+      "artist_jp": "上坂すみれ「ポプテピピック」",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_05.jpg",
+      "version": "MiLK+",
+      "bpm": 142,
+      "level_easy": "1",
+      "level_basic": "4",
+      "level_advanced": "6",
+      "level_expert": "8+",
+      "level_master": "10+",
+      "level_remaster": "12+",
+      "listen_youtube": "https://www.youtube.com/watch?v=3bl1ZI-J6hM",
+      "listen_niconico": null,
+      "regionlocked": 1
+    },
+    {
+      "name_en": "Anti-clockwise",
+      "name_jp": "アンチクロックワイズ",
+      "artist_en": "After the Rain",
+      "artist_jp": "After the Rain（そらる×まふまふ）",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_14.jpg",
+      "version": "MiLK+",
+      "bpm": 186,
+      "level_easy": "3",
+      "level_basic": "5",
+      "level_advanced": "7",
+      "level_expert": "9",
+      "level_master": "10+",
+      "level_remaster": "12",
+      "listen_youtube": "https://www.youtube.com/watch?v=gOLN_d7YW94",
+      "listen_niconico": null,
+      "regionlocked": 0
+    },
+    {
+      "name_en": "うまるん体操",
+      "name_jp": "うまるん体操",
+      "artist_en": "妹Ｓ「干物妹！うまるちゃんR」",
+      "artist_jp": "妹Ｓ「干物妹！うまるちゃんR」",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_06.jpg",
+      "version": "MiLK+",
+      "bpm": 170,
+      "level_easy": "2",
+      "level_basic": "4",
+      "level_advanced": "6",
+      "level_expert": "8",
+      "level_master": "10",
+      "level_remaster": "11",
+      "listen_youtube": "https://www.youtube.com/watch?v=rTZGtIoByTg",
+      "listen_niconico": null,
+      "regionlocked": 1
     }
   ],
   "nico": [
@@ -3511,6 +3565,42 @@
       "listen_youtube": "https://www.youtube.com/watch?v=4Ohpj2GDbRQ",
       "listen_niconico": "http://www.nicovideo.jp/watch/sm24108252",
       "regionlocked": 0
+    },
+    {
+      "name_en": "Seyana. ～AKANE's anything ok～",
+      "name_jp": "Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+      "artist_en": "GYARI",
+      "artist_jp": "GYARI",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_15.jpg",
+      "version": "MiLK+",
+      "bpm": 144,
+      "level_easy": "3",
+      "level_basic": "4",
+      "level_advanced": "6",
+      "level_expert": "9",
+      "level_master": "11+",
+      "level_remaster": null,
+      "listen_youtube": "https://www.youtube.com/watch?v=OVuYIMa5XBw",
+      "listen_niconico": "http://www.nicovideo.jp/watch/sm32492001",
+      "regionlocked": 0
+    },
+    {
+      "name_en": "MKDR",
+      "name_jp": "妄想感傷代償連盟",
+      "artist_en": "DECO*27",
+      "artist_jp": "DECO*27",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_07.jpg",
+      "version": "MiLK+",
+      "bpm": 110,
+      "level_easy": "2",
+      "level_basic": "3",
+      "level_advanced": "6",
+      "level_expert": "8",
+      "level_master": "10",
+      "level_remaster": "12",
+      "listen_youtube": "https://www.youtube.com/watch?v=8pGRdRhjX3o",
+      "listen_niconico": "www.nicovideo.jp/watch/sm30067009",
+      "regionlocked": 0
     }
   ],
   "toho": [
@@ -4719,6 +4809,24 @@
       "listen_youtube": "https://www.youtube.com/watch?v=Zdzg8j-I730",
       "listen_niconico": null,
       "regionlocked": 0
+    },
+    {
+      "name_en": "LOVE EAST",
+      "name_jp": "LOVE EAST",
+      "artist_en": "Akatsuki Records",
+      "artist_jp": "暁Records",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_08.jpg",
+      "version": "MiLK+",
+      "bpm": 168,
+      "level_easy": "2",
+      "level_basic": "4",
+      "level_advanced": "6",
+      "level_expert": "9",
+      "level_master": "11",
+      "level_remaster": null,
+      "listen_youtube": "https://www.youtube.com/watch?v=-4FkfYIZw14",
+      "listen_niconico": "http://www.nicovideo.jp/watch/sm26573540",
+      "regionlocked": 0
     }
   ],
   "sega": [
@@ -5819,6 +5927,24 @@
       "listen_youtube": "https://www.youtube.com/watch?v=Ed-5IIZiA4o",
       "listen_niconico": null,
       "regionlocked": 0
+    },
+    {
+      "name_en": "Fist Bump",
+      "name_jp": "Fist Bump",
+      "artist_en": "Tomoya Ohtani, Douglas Robb from Hoobastank ”Sonic Forces”",
+      "artist_jp": "大谷智哉, Douglas Robb from Hoobastank「ソニック フォース」",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_09.jpg",
+      "version": "MiLK+",
+      "bpm": 217,
+      "level_easy": "3",
+      "level_basic": "5",
+      "level_advanced": "7+",
+      "level_expert": "9+",
+      "level_master": "11+",
+      "level_remaster": null,
+      "listen_youtube": "https://www.youtube.com/watch?v=XI97jY3FZ9Q",
+      "listen_niconico": null,
+      "regionlocked": 0
     }
   ],
   "game": [
@@ -6468,6 +6594,24 @@
       "level_remaster": null,
       "listen_youtube": "https://www.youtube.com/watch?v=3K6OnRqo4og",
       "listen_niconico": "http://www.nicovideo.jp/watch/sm28425275",
+      "regionlocked": 0
+    },
+    {
+      "name_en": "ENERGY SYNERGY MATRIX",
+      "name_jp": "ENERGY SYNERGY MATRIX",
+      "artist_en": "Tanchiky",
+      "artist_jp": "Tanchiky",
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_10.jpg",
+      "version": "MiLK+",
+      "bpm": 160,
+      "level_easy": "2",
+      "level_basic": "5",
+      "level_advanced": "7",
+      "level_expert": "10+",
+      "level_master": "12+",
+      "level_remaster": null,
+      "listen_youtube": "https://www.youtube.com/watch?v=2IvwGGW7CpA",
+      "listen_niconico": null,
       "regionlocked": 0
     }
   ],
