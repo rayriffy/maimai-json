@@ -1,0 +1,159 @@
+
+
+{
+  "$id": "https://maimaibot.rayriffy.com/api",
+  "type": "array",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "items": {
+    "$id": "https://maimaibot.rayriffy.com/api/items",
+    "type": "object",
+    "properties": {
+      "name_en": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/name_en",
+        "type": "string",
+        "title": "Song name that show in English maimai machine [Japanese text is allowed if that song is region locked]",
+        "default": "",
+        "examples": [
+          "Welcome to the Japari Park"
+        ]
+      },
+      "name_jp": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/name_jp",
+        "type": "string",
+        "title": "Song name that show in Japanese maimai machine",
+        "default": "",
+        "examples": [
+          "ようこそジャパリパークへ"
+        ]
+      },
+      "artist_en": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/artist_en",
+        "type": "string",
+        "title": "Artist name that show in English maimai machine [Japanese text is allowed if that song is region locked]",
+        "default": "",
+        "examples": [
+          "どうぶつビスケッツ×PPP「けものフレンズ」"
+        ]
+      },
+      "artist_jp": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/artist_jp",
+        "type": "string",
+        "title": "Artist name that show in Japanese maimai machine",
+        "default": "",
+        "examples": [
+          "どうぶつビスケッツ×PPP「けものフレンズ」"
+        ]
+      },
+      "image_url": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/image_url",
+        "type": "string",
+        "title": "URL of song thumbnail must be HTTPS. You can copy image URL from offlicial site",
+        "default": "",
+        "examples": [
+          "https://maimai.sega.jp/assets/maiSongList/jacket/668_maiMilk01.jpg"
+        ]
+      },
+      "version": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/version",
+        "type": "string",
+        "title": "maimai version that song released (maimai, maimai+, GreeN, GreeN+, ORANGE, ORANGE+, PiNK, PiNK+, MURASAKi, MURASAKi+, MiLK, MiLK+)",
+        "default": "",
+        "examples": [
+          "MiLK"
+        ]
+      },
+      "bpm": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/bpm",
+        "type": "integer",
+        "title": "Song's bpm",
+        "default": 0,
+        "examples": [
+          170
+        ]
+      },
+      "level_easy": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/level_easy",
+        "type": "string",
+        "title": "Song's easy level",
+        "default": "",
+        "examples": [
+          "2"
+        ]
+      },
+      "level_basic": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/level_basic",
+        "type": "string",
+        "title": "Song's basic level",
+        "default": "",
+        "examples": [
+          "4"
+        ]
+      },
+      "level_advanced": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/level_advanced",
+        "type": "string",
+        "title": "Song's advanced level",
+        "default": "",
+        "examples": [
+          "6"
+        ]
+      },
+      "level_expert": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/level_expert",
+        "type": "string",
+        "title": "Song's expert level",
+        "default": "",
+        "examples": [
+          "8"
+        ]
+      },
+      "level_master": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/level_master",
+        "type": "string",
+        "title": "Song's master level",
+        "default": "",
+        "examples": [
+          "11"
+        ]
+      },
+      "level_remaster": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/level_remaster",
+        "type": "null",
+        "title": "Song's Re-master level",
+        "default": null,
+        "examples": [
+          null
+        ]
+      },
+      "listen_youtube": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/listen_youtube",
+        "type": "string",
+        "title": "YouTube URL for listening this song",
+        "default": "",
+        "examples": [
+          "https://www.youtube.com/watch?v=xkMdLcB_vNU"
+        ]
+      },
+      "listen_niconico": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/listen_niconico",
+        "type": "string",
+        "title": "niconico URL for listening this song",
+        "default": "",
+        "examples": [
+          "http://www.niconico.jp/watch/sm31104474"
+        ]
+      },
+      "regionlocked": {
+        "$id": "https://maimaibot.rayriffy.com/api/items/properties/regionlocked",
+        "type": "integer",
+        "title": "Is it region locked?",
+        "default": 0,
+        "examples": [
+          1
+        ]
+      }
+    }
+  }
+}
+

@@ -151,7 +151,7 @@
           "regionlocked": {
             "$id": "/properties/pops/items/properties/regionlocked",
             "type": "integer",
-            "title": "The Regionlocked Schema ",
+            "title": "Is it region locked?",
             "default": 0,
             "examples": [
               1
