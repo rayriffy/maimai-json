@@ -1,0 +1,180 @@
+{
+  "$id": "http://maimaibot.rayriffy.com/api",
+  "type": "array",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "items": {
+    "$id": "http://maimaibot.rayriffy.com/api/items",
+    "type": "object",
+    "properties": {
+      "name": {
+        "$id": "http://maimaibot.rayriffy.com/api/items/properties/name",
+        "type": "object",
+        "properties": {
+          "en": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/name/properties/en",
+            "type": "string",
+            "title": "Song name that show in English maimai machine [Japanese text is allowed if that song is region locked]",
+            "default": "",
+            "examples": [
+              "Ghost Rule"
+            ]
+          },
+          "jp": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/name/properties/jp",
+            "type": "string",
+            "title": "Song name that show in Japanese maimai machine",
+            "default": "",
+            "examples": [
+              "ゴーストルール"
+            ]
+          }
+        }
+      },
+      "artist": {
+        "$id": "http://maimaibot.rayriffy.com/api/items/properties/artist",
+        "type": "object",
+        "properties": {
+          "en": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/artist/properties/en",
+            "type": "string",
+            "title": "Artist name that show in English maimai machine [Japanese text is allowed if that song is region locked]",
+            "default": "",
+            "examples": [
+              "DECO*27"
+            ]
+          },
+          "jp": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/artist/properties/jp",
+            "type": "string",
+            "title": "Artist name that show in Japanese maimai machine",
+            "default": "",
+            "examples": [
+              "DECO*27"
+            ]
+          }
+        }
+      },
+      "image_url": {
+        "$id": "http://maimaibot.rayriffy.com/api/items/properties/image_url",
+        "type": "string",
+        "title": "URL of song thumbnail must be HTTPS. You can copy image URL from offlicial site",
+        "default": "",
+        "examples": [
+          "https://maimai.sega.jp/assets/maiSongList/jacket/552_mms_ghostrule.jpg"
+        ]
+      },
+      "version": {
+        "$id": "http://maimaibot.rayriffy.com/api/items/properties/version",
+        "type": "string",
+        "title": "maimai version that song released (maimai, maimai+, GreeN, GreeN+, ORANGE, ORANGE+, PiNK, PiNK+, MURASAKi, MURASAKi+, MiLK, MiLK+)",
+        "default": "",
+        "examples": [
+          "MURASAKi"
+        ]
+      },
+      "bpm": {
+        "$id": "http://maimaibot.rayriffy.com/api/items/properties/bpm",
+        "type": "integer",
+        "title": "Song's bpm",
+        "default": 0,
+        "examples": [
+          210
+        ]
+      },
+      "level": {
+        "$id": "http://maimaibot.rayriffy.com/api/items/properties/level",
+        "type": "object",
+        "properties": {
+          "easy": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/level/properties/easy",
+            "type": "string",
+            "title": "Song's easy level",
+            "default": "",
+            "examples": [
+              "3"
+            ]
+          },
+          "basic": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/level/properties/basic",
+            "type": "string",
+            "title": "Song's basic level",
+            "default": "",
+            "examples": [
+              "5"
+            ]
+          },
+          "advanced": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/level/properties/advanced",
+            "type": "string",
+            "title": "Song's advanced level",
+            "default": "",
+            "examples": [
+              "7+"
+            ]
+          },
+          "expert": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/level/properties/expert",
+            "type": "string",
+            "title": "Song's expert level",
+            "default": "",
+            "examples": [
+              "9"
+            ]
+          },
+          "master": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/level/properties/master",
+            "type": "string",
+            "title": "Song's master level",
+            "default": "",
+            "examples": [
+              "11+"
+            ]
+          },
+          "remaster": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/level/properties/remaster",
+            "type": "null",
+            "title": "Song's Re-master level",
+            "default": null,
+            "examples": [
+              null
+            ]
+          }
+        }
+      },
+      "listen": {
+        "$id": "http://maimaibot.rayriffy.com/api/items/properties/listen",
+        "type": "object",
+        "properties": {
+          "youtube": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/listen/properties/youtube",
+            "type": "string",
+            "title": "YouTube URL for listening this song",
+            "default": "",
+            "examples": [
+              "https://www.youtube.com/watch?v=KushW6zvazM"
+            ]
+          },
+          "niconico": {
+            "$id": "http://maimaibot.rayriffy.com/api/items/properties/listen/properties/niconico",
+            "type": "string",
+            "title": "niconico URL for listening this song",
+            "default": "",
+            "examples": [
+              "https://www.youtube.com/watch?v=KushW6zvazM"
+            ]
+          }
+        }
+      },
+      "regionlocked": {
+        "$id": "http://maimaibot.rayriffy.com/api/items/properties/regionlocked",
+        "type": "integer",
+        "title": "Is it region locked?",
+        "default": 0,
+        "examples": [
+          0
+        ]
+      }
+    }
+  }
+}
