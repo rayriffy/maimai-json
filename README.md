@@ -68,6 +68,8 @@ Our databse wil use following data structure
     "expert": "8",
     "master": "10",
     "remaster": null
+  },
+  "regionlocked": 0
 }
 ```
 
