@@ -1559,6 +1559,32 @@
         "niconico": null
       },
       "regionlocked": 1
+    },
+    {
+      "name": {
+        "en": "Slip Flip",
+        "jp": "スリップフリップ"
+      },
+      "artist": {
+        "en": "tilt-six feat.Kushii Tomomi",
+        "jp": "tilt-six feat.串伊トモミ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_slipflip_01.jpg",
+      "version": "PiNK",
+      "bpm": 143,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=nJkQibPE4Nc",
+        "niconico": null
+      },
+      "regionlocked": 0
     }
   ],
   "nico": [
@@ -10407,6 +10433,448 @@
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=DXFvegxq7HM",
         "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Nitrous Fury",
+        "jp": "Nitrous Fury"
+      },
+      "artist": {
+        "en": "Jun Senoue",
+        "jp": "Jun Senoue"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/534_mms_nitrousfury.jpg",
+      "version": "PiNK+",
+      "bpm": 144,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=lxl1M0fCJNI",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Revive The Rave",
+        "jp": "Revive The Rave"
+      },
+      "artist": {
+        "en": "void(Mournfinale)",
+        "jp": "void(Mournfinale)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_revivetherave_01.jpg",
+      "version": "PiNK",
+      "bpm": 165,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=RpdwGCRpFBI",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "GEMINI -M-",
+        "jp": "GEMINI -M-"
+      },
+      "artist": {
+        "en": "Tatsh",
+        "jp": "Tatsh"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_geminim_01.jpg",
+      "version": "PiNK",
+      "bpm": 180,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=4-O-x_6okIA",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Amenohoakari",
+        "jp": "天火明命"
+      },
+      "artist": {
+        "en": "Sakuzyo",
+        "jp": "削除"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/566_mms_amenohoakari.jpg",
+      "version": "MURASAKi",
+      "bpm": 155,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8+",
+        "expert": "11",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=NknFuXq1NP4",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "7thSense",
+        "jp": "7thSense"
+      },
+      "artist": {
+        "en": "Sakuzyo",
+        "jp": "削除"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_7thsense_01.jpg",
+      "version": "PiNK",
+      "bpm": 150,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=QtIAAvGOu9I",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Lividi",
+        "jp": "Lividi"
+      },
+      "artist": {
+        "en": "Feryquitous",
+        "jp": "Feryquitous"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/488_mms_lividi.jpg",
+      "version": "MURASAKi",
+      "bpm": 191,
+      "level": {
+        "easy": "4",
+        "basic": "5",
+        "advanced": "8+",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=UXGLzrUag28",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Axeria",
+        "jp": "Axeria"
+      },
+      "artist": {
+        "en": "AcuticNotes",
+        "jp": "AcuticNotes"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/348_mai_sel_axeria_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 193,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "7+",
+        "expert": "10+",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Ltp2hWMe-ZA",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Brionac of Steel-flash",
+        "jp": "閃鋼のブリューナク"
+      },
+      "artist": {
+        "en": "sasakure.UK",
+        "jp": "sasakure.UK"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/460_mai_jacket_brionac_01.jpg",
+      "version": "PiNK",
+      "bpm": 140,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=85a5pkOq2AU",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Helix of Garatia",
+        "jp": "ガラテアの螺旋"
+      },
+      "artist": {
+        "en": "sasakure.UK",
+        "jp": "sasakure.UK"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/365_mai_jacket_garatea_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=zny3dKBJZEY",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Our Wrenally",
+        "jp": "Our Wrenally"
+      },
+      "artist": {
+        "en": "t+pazolite",
+        "jp": "t+pazolite"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/571_mms_ourwrenally.jpg",
+      "version": "MURASAKi",
+      "bpm": 105,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "9",
+        "expert": "11",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=_R2Sji-o9EM",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Contrapasso -paradiso-",
+        "jp": "Contrapasso -paradiso-"
+      },
+      "artist": {
+        "en": "t+pazolite",
+        "jp": "t+pazolite"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/431_mms_contrapasso.jpg",
+      "version": "PiNK+",
+      "bpm": 243,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8+",
+        "expert": "11",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=SVF5vR2hzhM",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Oshama Scramble!",
+        "jp": "Oshama Scramble!"
+      },
+      "artist": {
+        "en": "t+pazolite",
+        "jp": "t+pazolite"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/363_mai_jacket_oshama_scramble_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 190,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=WHcFDJCjY3s",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Garakuta Doll Play",
+        "jp": "Garakuta Doll Play"
+      },
+      "artist": {
+        "en": "t+pazolite",
+        "jp": "t+pazolite"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/227_mai_jacket_garakuta_01.jpg",
+      "version": "GreeN",
+      "bpm": 256,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=HGxcnEjmFOA",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Blew Moon",
+        "jp": "Blew Moon"
+      },
+      "artist": {
+        "en": "t+pazolite",
+        "jp": "t+pazolite"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/226_mai_jacket_blewmoon_01.jpg",
+      "version": "GreeN",
+      "bpm": 180,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "8",
+        "expert": "10",
+        "master": "11+",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=OT6nM64ZXEc",
+        "niconico": "http://www.nicovideo.jp/watch/sm27367500"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "We Gonna Party",
+        "jp": "We Gonna Party"
+      },
+      "artist": {
+        "en": "Cranky",
+        "jp": "Cranky"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/133_mai_jacket_wegonnaparty_01.jpg",
+      "version": "maimai+",
+      "bpm": 159,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "7+",
+        "expert": "11",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=tTy5ZR2w9aI`",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "MYTHOS",
+        "jp": "MYTHOS"
+      },
+      "artist": {
+        "en": "Cranky feat. Marasy ＆ Teppei",
+        "jp": "Cranky feat. まらしぃ ＆ てっぺい先生"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/233_mai_sel_mythos_01.jpg",
+      "version": "GreeN+",
+      "bpm": 158,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=W7e0zNKZ2ZI",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Life Feels Good",
+        "jp": "Life Feels Good"
+      },
+      "artist": {
+        "en": "Cranky",
+        "jp": "Cranky"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/232_mai_sel_lifefeelsgood_01.jpg",
+      "version": "GreeN+",
+      "bpm": 180,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10+",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Z2GjB4H93OY",
+        "niconico": "http://www.nicovideo.jp/watch/sm28672718"
       },
       "regionlocked": 0
     }
