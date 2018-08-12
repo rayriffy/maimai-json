@@ -10877,6 +10877,812 @@
         "niconico": "http://www.nicovideo.jp/watch/sm28672718"
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Glorious Crown",
+        "jp": "Glorious Crown"
+      },
+      "artist": {
+        "en": "xi",
+        "jp": "xi"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_gloriouscrown_01.jpg",
+      "version": "PiNK",
+      "bpm": 225,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "9+",
+        "expert": "11",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=FL9-Vv6O6Z8",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Aiolos",
+        "jp": "Aiolos"
+      },
+      "artist": {
+        "en": "xi",
+        "jp": "xi"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/421_mai_sel_aiolos_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 205,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=6qdbsVCD5ME",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "LANCE",
+        "jp": "LANCE"
+      },
+      "artist": {
+        "en": "Ras",
+        "jp": "Ras"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/422_mai_sel_lance_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 156,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=oD8kn0lKMME",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Dragoon",
+        "jp": "Dragoon"
+      },
+      "artist": {
+        "en": "Shandy kubota",
+        "jp": "Shandy kubota"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/367_mai_jacket_Dragoon.jpg",
+      "version": "ORANGE",
+      "bpm": 175,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=tF9JkBlM5ao",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Death Scythe",
+        "jp": "Death Scythe"
+      },
+      "artist": {
+        "en": "SHIKI",
+        "jp": "SHIKI"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/261_mai_jacket_death_01.jpg",
+      "version": "GreeN",
+      "bpm": 182,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=cNYbeYdEpxY",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "LUCIA",
+        "jp": "LUCIA"
+      },
+      "artist": {
+        "en": "SHIKI",
+        "jp": "SHIKI"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/260_mai_jacket_lucia_01.jpg",
+      "version": "GreeN",
+      "bpm": 154,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=FiNtdP80dYQ",
+        "niconico": "www.nicovideo.jp/watch/sm28672807"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "D✪N'T ST✪P R✪CKIN'",
+        "jp": "D✪N'T ST✪P R✪CKIN'"
+      },
+      "artist": {
+        "en": "EB(aka EarBreaker)",
+        "jp": "EB(aka EarBreaker)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/364_mai_jacket_dont_stop_rockin_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 140,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=9CZTqvNNZXw",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "oboro",
+        "jp": "oboro"
+      },
+      "artist": {
+        "en": "Hige Driver",
+        "jp": "ヒゲドライバー"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/366_mai_jacket_oboro.jpg",
+      "version": "ORANGE",
+      "bpm": 175,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=TsRmLorcRVY",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "CYCLES",
+        "jp": "CYCLES"
+      },
+      "artist": {
+        "en": "Masayoshi Minoshima feat. Mei Ayakura",
+        "jp": "Masayoshi Minoshima feat. 綾倉盟"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/230_mai_sel_cycles_01.jpg",
+      "version": "GreeN+",
+      "bpm": 135,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=wYFbi8Eu7hM",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Lionheart",
+        "jp": "Lionheart"
+      },
+      "artist": {
+        "en": "Masayoshi Minoshima",
+        "jp": "Masayoshi Minoshima"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/138_mai_jacket_lionheart_01.jpg",
+      "version": "maimai+",
+      "bpm": 132,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=R1WyGh8BAHI",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Heartbeats",
+        "jp": "Heartbeats"
+      },
+      "artist": {
+        "en": "RAMM feat. Yuki Wakai",
+        "jp": "RAMM feat. 若井友希"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/231_mai_sel_heart_beats_01.jpg",
+      "version": "GreeN+",
+      "bpm": 170,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "8",
+        "expert": "10",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ATHST4ocomk",
+        "niconico": "http://www.nicovideo.jp/watch/sm25528554"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Acceleration",
+        "jp": "Acceleration"
+      },
+      "artist": {
+        "en": "REDALiCE",
+        "jp": "REDALiCE"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/139_mai_jacket_acceleration_01.jpg",
+      "version": "maimai+",
+      "bpm": 180,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ah49oH0--zA",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "End of Twilight",
+        "jp": "End of Twilight"
+      },
+      "artist": {
+        "en": "ALiCE'S EMOTiON feat. Ayumi Nomiya",
+        "jp": "ALiCE'S EMOTiON feat. Ayumi Nomiya"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/234_mai_sel_endoftwilight_01.jpg",
+      "version": "GreeN+",
+      "bpm": 180,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "10",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=rEXKuOw1GLM",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "JUMPIN' JUMPIN'",
+        "jp": "JUMPIN' JUMPIN'"
+      },
+      "artist": {
+        "en": "SOUND HOLIC feat. Nana Takahashi",
+        "jp": "SOUND HOLIC feat. Nana Takahashi"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/263_mai_jacket_jumpin_01.jpg",
+      "version": "GreeN",
+      "bpm": 163,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=UItJQuif82w",
+        "niconico": "www.nicovideo.jp/watch/sm28672815"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "L'épilogue",
+        "jp": "L'épilogue"
+      },
+      "artist": {
+        "en": "SOUND HOLIC feat. Nana Takahashi",
+        "jp": "SOUND HOLIC feat. Nana Takahashi"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/264_mai_jacket_lepilogue_01.jpg",
+      "version": "GreeN",
+      "bpm": 145,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=NxeG5E_zooU",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "FEEL ALIVE",
+        "jp": "FEEL ALIVE"
+      },
+      "artist": {
+        "en": "ELEMENTAS feat. NAGISA",
+        "jp": "ELEMENTAS feat. NAGISA"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/130_mai_jacket_feelalive_01.jpg",
+      "version": "maimai+",
+      "bpm": 162,
+      "level": {
+        "easy": "4",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=cRJwfc1Himk",
+        "niconico": "http://www.nicovideo.jp/watch/sm25115607"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "FEEL the BEATS",
+        "jp": "FEEL the BEATS"
+      },
+      "artist": {
+        "en": "A-One",
+        "jp": "A-One"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/mai_jacket_feelthebeats_01.jpg",
+      "version": "PiNK",
+      "bpm": 166,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=3M7c9QAXhsg",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "BREAK YOU!!",
+        "jp": "BREAK YOU!!"
+      },
+      "artist": {
+        "en": "A-One",
+        "jp": "A-One"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/262_mai_jacket_breakyou_01.jpg",
+      "version": "GreeN",
+      "bpm": 167,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=6oBdXYtUkZ0",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "KING is BACK!!",
+        "jp": "KING is BACK!!"
+      },
+      "artist": {
+        "en": "A-One",
+        "jp": "A-One"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/631_mms_king_is_back.jpg",
+      "version": "MURASAKi+",
+      "bpm": 176,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=2sX5rygRDTk",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Streak",
+        "jp": "Streak"
+      },
+      "artist": {
+        "en": "ARM(IOSYS)",
+        "jp": "ARM(IOSYS)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/136_mai_jacket_streak_01.jpg",
+      "version": "maimai+",
+      "bpm": 150,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "10+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=TomKLcoqch4",
+        "niconico": "http://www.nicovideo.jp/watch/sm27360667"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Spin me harder",
+        "jp": "Spin me harder"
+      },
+      "artist": {
+        "en": "D.watt(IOSYS)feat. Asana",
+        "jp": "D.watt(IOSYS)feat. Asana"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/137_mai_jacket_spinmeharder_01.jpg",
+      "version": "maimai+",
+      "bpm": 130,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "10+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=W8mVIGQ-jy4",
+        "niconico": "http://www.nicovideo.jp/watch/sm28672760"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Turn around",
+        "jp": "Turn around"
+      },
+      "artist": {
+        "en": "Clean Tears",
+        "jp": "Clean Tears"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/132_mai_jacket_turnaround_01.jpg",
+      "version": "maimai+",
+      "bpm": 156,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "11",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=CPHQm5yy8Mc",
+        "niconico": "www.nicovideo.jp/watch/sm28672773"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Link",
+        "jp": "Link"
+      },
+      "artist": {
+        "en": "Clean Tears feat. Youna",
+        "jp": "Clean Tears feat. Youna"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/131_mai_jacket_link_01.jpg",
+      "version": "maimai+",
+      "bpm": 132,
+      "level": {
+        "easy": "2",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "10+",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=2p6BrZXQYQc",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Black Out",
+        "jp": "Black Out"
+      },
+      "artist": {
+        "en": "Tsukasa(Arte Refact)",
+        "jp": "Tsukasa(Arte Refact)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/142_mai_jacket_blackout_01.jpg",
+      "version": "maimai+",
+      "bpm": 142,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "11",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=9U7RtITf__c",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Fragrance",
+        "jp": "Fragrance"
+      },
+      "artist": {
+        "en": "Tsukasa(Arte Refact)",
+        "jp": "Tsukasa(Arte Refact)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/143_mai_jacket_fragrance_01.jpg",
+      "version": "maimai+",
+      "bpm": 180,
+      "level": {
+        "easy": "4",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": "13"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=68qbjtrlFIs",
+        "niconico": "www.nicovideo.jp/watch/sm27367531"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Nerverakes",
+        "jp": "Nerverakes"
+      },
+      "artist": {
+        "en": "Taishi",
+        "jp": "Taishi"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/141_mai_jacket_neverakes_01.jpg",
+      "version": "maimai+",
+      "bpm": 140,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=B3Kv00ObkMo",
+        "niconico": "www.nicovideo.jp/watch/sm28672734"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Sprintrances",
+        "jp": "Sprintrances"
+      },
+      "artist": {
+        "en": "Taishi",
+        "jp": "Taishi"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/140_mai_jacket_sprintrances_01.jpg",
+      "version": "maimai+",
+      "bpm": 178,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=tyJZTIdsduU",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "air's gravity",
+        "jp": "air's gravity"
+      },
+      "artist": {
+        "en": "zts",
+        "jp": "zts"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/144_mai_jacket_airsgravity_01.jpg",
+      "version": "maimai+",
+      "bpm": 137,
+      "level": {
+        "easy": "4",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=PzLlNx3TeJo",
+        "niconico": "www.nicovideo.jp/watch/sm28672748"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Night Fly",
+        "jp": "Night Fly"
+      },
+      "artist": {
+        "en": "Hatsunetsumiko's",
+        "jp": "発熱巫女〜ず"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/134_mai_jacket_nightfly_01.jpg",
+      "version": "maimai+",
+      "bpm": 127,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=jMTxe6mB1G0",
+        "niconico": "http://www.nicovideo.jp/watch/sm28674191"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Feel My Fire",
+        "jp": "Feel My Fire"
+      },
+      "artist": {
+        "en": "Hatsunetsumiko's",
+        "jp": "発熱巫女〜ず"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/135_mai_jacket_feelmyfire_01.jpg",
+      "version": "maimai+",
+      "bpm": 123,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "8",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=uEzMZhHkW18",
+        "niconico": "http://www.nicovideo.jp/watch/sm28674175"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Starlight Disco",
+        "jp": "Starlight Disco"
+      },
+      "artist": {
+        "en": "loos feat. Meramipop",
+        "jp": "loos feat. Meramipop"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/145_mai_jacket_starlightdisco_01.jpg",
+      "version": "maimai+",
+      "bpm": 128,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "10",
+        "master": "10",
+        "remaster": "11"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=g79TsJYFT6I",
+        "niconico": "www.nicovideo.jp/watch/sm28674207"
+      },
+      "regionlocked": 0
     }
   ]
 }
