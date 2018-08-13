@@ -11683,6 +11683,1592 @@
         "niconico": "www.nicovideo.jp/watch/sm28674207"
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "kioku,kiroku",
+        "jp": "記憶、記録"
+      },
+      "artist": {
+        "en": "LOPIT(SEGA)",
+        "jp": "LOPIT(SEGA)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/219_mai_jacket_kiokukiroku_01.jpg",
+      "version": "GreeN",
+      "bpm": 185,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "8",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=eG-8ofjOQEw",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "connecting with you",
+        "jp": "connecting with you"
+      },
+      "artist": {
+        "en": "Takahiro Eguchi feat. Aki Misawa",
+        "jp": "Takahiro Eguchi feat. 三澤秋"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/529_mms_connecting.jpg",
+      "version": "PiNK+",
+      "bpm": 155,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=x3QMFETNkoM",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Argent Symmetry",
+        "jp": "アージェントシンメトリー"
+      },
+      "artist": {
+        "en": "Sta feat.b",
+        "jp": "Sta feat.b"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/472_mai_jacket_v16sta_org_01.jpg",
+      "version": "PiNK",
+      "bpm": 172,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=MLTCLdHJkY4",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Dreampainter",
+        "jp": "Dreampainter"
+      },
+      "artist": {
+        "en": "Sta feat.tigerlily and DOT96",
+        "jp": "Sta feat.tigerlily and DOT96"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/228_mai_sel_dreampainter_01.jpg",
+      "version": "ORANGE",
+      "bpm": 136,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=jQqI-WCWxDw",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Monochrome Rainbow",
+        "jp": "Monochrome Rainbow"
+      },
+      "artist": {
+        "en": "Sta",
+        "jp": "Sta"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/251_mai_sel_mono_rainbow_01.jpg",
+      "version": "GreeN+",
+      "bpm": 182,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=utAtX-GJx34",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Beat of getting entangled",
+        "jp": "Beat of getting entangled"
+      },
+      "artist": {
+        "en": "Shoichiro Hirata",
+        "jp": "Shoichiro Hirata"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/240_mai_jacket_hirata2_01.jpg",
+      "version": "GreeN",
+      "bpm": 140,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=EiB9_LWR0GQ",
+        "niconico": "http://www.nicovideo.jp/watch/sm28672838"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "MIRROR of MAGIC",
+        "jp": "MIRROR of MAGIC"
+      },
+      "artist": {
+        "en": "Shoichiro Hirata feat.SUIMI",
+        "jp": "Shoichiro Hirata feat.SUIMI"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/351_mai_jacket_mirror_of_magic_01.jpg",
+      "version": "ORANGE",
+      "bpm": 135,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=392wEGPJQQc",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Cosmic Train",
+        "jp": "Cosmic Train"
+      },
+      "artist": {
+        "en": "Shoichiro Hirata feat.SUIMI",
+        "jp": "Shoichiro Hirata feat.SUIMI"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/241_mai_jacket_cosmictrain_01.jpg",
+      "version": "GreeN",
+      "bpm": 130,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "5",
+        "expert": "9",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=YvPDA3ERCG8",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Anticyclone Cat Rock",
+        "jp": "高気圧ねこロック"
+      },
+      "artist": {
+        "en": "Hideyuki Ono with Jimmy Weckl",
+        "jp": "小野隊長とJimmy親分"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/530_mms_nekorock.jpg",
+      "version": "PiNK+",
+      "bpm": 260,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=tpDDILlwcUw",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Prophesy One",
+        "jp": "Prophesy One"
+      },
+      "artist": {
+        "en": "vox2 (Hideyuki Ono)",
+        "jp": "vox2（小野秀幸）"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/531_mms_prophesyone.jpg",
+      "version": "PiNK+",
+      "bpm": 264,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=8wqfIHaQD9Y",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "BETTER CHOICE",
+        "jp": "BETTER CHOICE"
+      },
+      "artist": {
+        "en": "Jimmy Weckl feat.Mina Takagi",
+        "jp": "Jimmy Weckl feat.高貴みな"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/362_mai_jacket_better_choice_01.jpg",
+      "version": "ORANGE",
+      "bpm": 130,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=FHbXUcHXLac",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Get Happy",
+        "jp": "Get Happy"
+      },
+      "artist": {
+        "en": "Jimmy Weckl",
+        "jp": "Jimmy Weckl"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/238_mai_jacket_mm008_01.jpg",
+      "version": "GreeN",
+      "bpm": 150,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Hd2KdN7cZiY",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "System “Z”",
+        "jp": "System “Z”"
+      },
+      "artist": {
+        "en": "Jimmy Weckl",
+        "jp": "Jimmy Weckl"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/239_mai_jacket_mm023_01.jpg",
+      "version": "GreeN",
+      "bpm": 147,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=GPp6r4lBNaA",
+        "niconico": "http://www.nicovideo.jp/watch/sm28672835"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "VERTeX",
+        "jp": "VERTeX"
+      },
+      "artist": {
+        "en": "Hiro「maimai」より",
+        "jp": "Hiro「maimai」より"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/384_jacket_VERTeX_maimai.jpg",
+      "version": "ORANGE",
+      "bpm": 237,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=KEfSIMSBZd4",
+        "niconico": "http://www.nicovideo.jp/watch/sm28690325"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Jinglebell",
+        "jp": "ジングルベル"
+      },
+      "artist": {
+        "en": "SEGA Sound Unit [H.]",
+        "jp": "SEGA Sound Unit [H.]"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/070_mai_jacket_xmas_01.jpg",
+      "version": "maimai",
+      "bpm": 100,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=QRQRq7-BjTk",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "HELL FLAME",
+        "jp": "火炎地獄"
+      },
+      "artist": {
+        "en": "Michiru Yamane",
+        "jp": "山根ミチル"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/235_mai_sel_kaen_01.jpg",
+      "version": "GreeN+",
+      "bpm": 216,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "10",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Rfm8oQLZJ4w",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Danza zandA",
+        "jp": "Danza zandA"
+      },
+      "artist": {
+        "en": "Fukuyama mitsuharu",
+        "jp": "福山光晴"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/247_mai_sel_danza_01.jpg",
+      "version": "GreeN+",
+      "bpm": 129,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=CEZRhtU12xs",
+        "niconico": "http://www.nicovideo.jp/watch/sm25950332"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "planet dancer",
+        "jp": "planet dancer"
+      },
+      "artist": {
+        "en": "Eiichiro Taruki",
+        "jp": "樽木栄一郎"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/378_mai_jacket_planetdancer_01.jpg",
+      "version": "ORANGE",
+      "bpm": 127,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=tzxG9EJ1brM",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Tears and Meteor",
+        "jp": "ナミダと流星"
+      },
+      "artist": {
+        "en": "Yoshino Yoshikawa",
+        "jp": "芳川よしの"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/242_mai_sel_namida_ryusei_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 190,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=6i2YC2gtjYA",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Piiman Tabetara",
+        "jp": "ピーマンたべたら"
+      },
+      "artist": {
+        "en": "Tsugumi Kataoka",
+        "jp": "カタオカツグミ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/349_mai_jacket_piman_01.jpg",
+      "version": "ORANGE",
+      "bpm": 178,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=oBQxLaZHLac",
+        "niconico": "http://www.nicovideo.jp/watch/sm2604941"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "maimai chan",
+        "jp": "maimaiちゃんのテーマ"
+      },
+      "artist": {
+        "en": "YMCK",
+        "jp": "YMCK"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/159_mai_jacket_maimaichan_01.jpg",
+      "version": "maimai+",
+      "bpm": 136,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=p4BTnBNejp4",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Pixel Voyage",
+        "jp": "Pixel Voyage"
+      },
+      "artist": {
+        "en": "YMCK",
+        "jp": "YMCK"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/237_mai_jacket_sekairyokou_01.jpg",
+      "version": "GreeN",
+      "bpm": 170,
+      "level": {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "6",
+        "expert": "8",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Cru5HrfTO6Y",
+        "niconico": "http://www.nicovideo.jp/watch/sm28673911"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Sweets×Sweets",
+        "jp": "Sweets×Sweets"
+      },
+      "artist": {
+        "en": "Team-D",
+        "jp": "Team-D"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/025_mai_jacket_sweet2_01.jpg",
+      "version": "maimai",
+      "bpm": 132,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "8",
+        "master": "9+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=A2AEXTxZjf4",
+        "niconico": "http://www.nicovideo.jp/watch/sm28672848"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Turn To The Rainbow",
+        "jp": "虹と太陽"
+      },
+      "artist": {
+        "en": "GOSH/manami",
+        "jp": "GOSH/manami"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/031_mai_jacket_segasamba_01.jpg",
+      "version": "maimai",
+      "bpm": 146,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=PFYBcCObkq0",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Color My World",
+        "jp": "Color My World"
+      },
+      "artist": {
+        "en": "GOSH/classical “Pathetique”",
+        "jp": "GOSH/クラシック「悲愴」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/009_mai_jacket_Color-My-World_01.jpg",
+      "version": "maimai",
+      "bpm": 94,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=zJ5YmVGfJms",
+        "niconico": "http://www.nicovideo.jp/watch/sm28673756"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "True Love Song",
+        "jp": "True Love Song"
+      },
+      "artist": {
+        "en": "Kai/classical “Air on the G String”",
+        "jp": "Kai/クラシック「G線上のアリア」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/008_mai_jacket_truelovesong_01.jpg",
+      "version": "maimai",
+      "bpm": 150,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "9+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=QaycySQFbxs",
+        "niconico": "http://www.nicovideo.jp/watch/sm28673748"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Dekoboko Taisou No.2",
+        "jp": "デコボコ体操第二"
+      },
+      "artist": {
+        "en": "Takenobu Mitsuyoshi",
+        "jp": "光吉猛修＆体操隊"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/120_mai_jacket_dekoboko_01.jpg",
+      "version": "maimai+",
+      "bpm": 140,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "7+",
+        "master": "9",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=T_tEYPYS9nM",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Soran☆Bushi",
+        "jp": "ソーラン☆節"
+      },
+      "artist": {
+        "en": "Takenobu Mitsuyoshi",
+        "jp": "光吉猛修"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/119_mai_jacket_soran_01.jpg",
+      "version": "maimai+",
+      "bpm": 145,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ZOWajPSFdjQ",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "OTEMO☆Yan",
+        "jp": "おても☆Yan"
+      },
+      "artist": {
+        "en": "Takenobu Mitsuyoshi",
+        "jp": "光吉猛修"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/244_mai_sel_otemoyan_01.jpg",
+      "version": "ORANGE",
+      "bpm": 90,
+      "level": {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=avEFYyXNxo8",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "The★Tanko★Bushi",
+        "jp": "炭★坑★節"
+      },
+      "artist": {
+        "en": "Kai/Takenobu Mitsuyoshi",
+        "jp": "Kai/光吉猛修"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/035_mai_jacket_tankou_01.jpg",
+      "version": "maimai",
+      "bpm": 112,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=aZyI9SPhPW4",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Cats",
+        "jp": "ネコ日和。"
+      },
+      "artist": {
+        "en": "Kai/ARISA NOTO",
+        "jp": "Kai/能登有沙"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/030_mai_jacket_sega01cat_01.jpg",
+      "version": "maimai",
+      "bpm": 171,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "7",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=CZkPolbdgOY",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Dogs",
+        "jp": "犬日和。"
+      },
+      "artist": {
+        "en": "RYOHEI KOHNO/Ayaka Mori",
+        "jp": "RYOHEI KOHNO/森綾香"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/118_mai_jacket_inubiyori_01.jpg",
+      "version": "maimai+",
+      "bpm": 138,
+      "level": {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=wdtuyRBIDf4",
+        "niconico": "http://www.nicovideo.jp/watch/sm28673853"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Endless World",
+        "jp": "Endless World"
+      },
+      "artist": {
+        "en": "RYOHEI KOHNO/Miwako Hotate",
+        "jp": "RYOHEI KOHNO/保立美和子"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/058_mai_jacket_maimai_58_01.jpg",
+      "version": "maimai",
+      "bpm": 142,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=FLeulhsbcFg",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "BAD GIRL",
+        "jp": "Backyun! －悪い女－"
+      },
+      "artist": {
+        "en": "Chihiro Aoki/Manami",
+        "jp": "青木千紘/愛海"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/248_mai_jacket_bakkyun_01.jpg",
+      "version": "GreeN",
+      "bpm": 140,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=AtFjftH4scY",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Honey Trap",
+        "jp": "BaBan!! －甘い罠－"
+      },
+      "artist": {
+        "en": "Hiro/RINA NAGAE",
+        "jp": "Hiro/永江理奈"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/069_mai_jacket_maimai_69_01.jpg",
+      "version": "maimai",
+      "bpm": 161,
+      "level": {
+        "easy": "4",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=714-Ae3HW50",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Lost Summer",
+        "jp": "オレンジの夏"
+      },
+      "artist": {
+        "en": "Hiro/Taku-Maro",
+        "jp": "Hiro/タクマロ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/068_mai_jacket_maimai_08_01.jpg",
+      "version": "maimai",
+      "bpm": 132,
+      "level": {
+        "easy": "4",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=xIe4xhH4zpc",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Pi Pi Pa Puu!",
+        "jp": "ぴぴぱぷぅ！"
+      },
+      "artist": {
+        "en": "Hiro/Akari Koyama",
+        "jp": "Hiro/小山あかり"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/116_mai_jacket_maimai_116_01.jpg",
+      "version": "maimai+",
+      "bpm": 147,
+      "level": {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=4fLpdJsXi1M",
+        "niconico": "http://www.nicovideo.jp/watch/sm20908261"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "HOMURA-UTA",
+        "jp": "炎歌 -ほむらうた-"
+      },
+      "artist": {
+        "en": "Hiro/Aiko Moriyama",
+        "jp": "Hiro/森山愛子"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/117_mai_jacket_enka_01.jpg",
+      "version": "maimai+",
+      "bpm": 108,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=yq5XmbS_ywc",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "NAKIMUSHI O'clock",
+        "jp": "泣き虫O'clock"
+      },
+      "artist": {
+        "en": "Hiro/Yuka",
+        "jp": "Hiro/友香"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/155_mai_jacket_nagashima_01.jpg",
+      "version": "maimai+",
+      "bpm": 152,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "10",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=_pgklc_i_-4",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "mayim mayim feat. Weekly Shonen Magazine",
+        "jp": "maiム・maiム feat.週刊少年マガジン"
+      },
+      "artist": {
+        "en": "“choi mori”",
+        "jp": "にしもと先生、タクマ、どんちゃん「ちょっと盛りました。」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/246_mai_jacket_maimumaimu_01.jpg",
+      "version": "GreeN",
+      "bpm": 140,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=kk1TYYPjzzw",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Takahase! Meijin-Man",
+        "jp": "タカハせ！名人マン"
+      },
+      "artist": {
+        "en": "beatMARIO+ARM feat. Takahashi-Meijin",
+        "jp": "ビートまりお + ARM feat. 高橋名人"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/327_meijinman_jacket.jpg",
+      "version": "GreeN+",
+      "bpm": 150,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=bWg9psjfbAE",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "minna no maimaimaa",
+        "jp": "みんなのマイマイマー"
+      },
+      "artist": {
+        "en": "beat MARIO(COOL＆CREATE)+ ARM(IOSYS)",
+        "jp": "ビートまりお(COOL＆CREATE)+ ARM(IOSYS)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/252_mai_jacket_maimaimar_01.jpg",
+      "version": "GreeN",
+      "bpm": 175,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=E3vEBQHZXo4",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "welcome to maimai!! with maimaimaa",
+        "jp": "welcome to maimai!! with マイマイマー"
+      },
+      "artist": {
+        "en": "Hiro feat.TAKAHITO “Rute” KOSHIDA＆beatMARIO",
+        "jp": "Hiro feat.越田Rute隆人&ビートまりお"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/418_mai_jacket_maimailive2014_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 163,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "8",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=PwaJWnW43v4",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Coinlaundry Disco",
+        "jp": "ぐるぐるWASH！コインランドリー・ディスコ"
+      },
+      "artist": {
+        "en": "D.watt(IOSYS)feat.Chiyoko",
+        "jp": "D.watt(IOSYS)feat.ちよこ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/229_mai_sel_coinlaundry_01.jpg",
+      "version": "GreeN+",
+      "bpm": 132,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=7c5QhhZeypw",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Infantoon Fantasy",
+        "jp": "Infantoon Fantasy"
+      },
+      "artist": {
+        "en": "t+pazolite",
+        "jp": "t+pazolite"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/490_mms_infantoon.jpg",
+      "version": "PiNK+",
+      "bpm": 185,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=mVC-emb9uYQ",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "IKUSHION-Ixion-",
+        "jp": "幾四音-Ixion-"
+      },
+      "artist": {
+        "en": "M.S.S Project",
+        "jp": "M.S.S Project"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/459_mai_jacket_ixion_01.jpg",
+      "version": "PiNK",
+      "bpm": 210,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=CsB_mT8AflY",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Counselor",
+        "jp": "Counselor"
+      },
+      "artist": {
+        "en": "DECO*27 feat.echo",
+        "jp": "DECO*27 feat.echo"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/455_mai_jacket_counselor_01.jpg",
+      "version": "PiNK",
+      "bpm": 135,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=9KHzYYFR4mM",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Invitation",
+        "jp": "Invitation"
+      },
+      "artist": {
+        "en": "rerulili feat.Lon",
+        "jp": "れるりり feat.ろん"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/528_mms_invitation.jpg",
+      "version": "PiNK+",
+      "bpm": 147,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Vh_z6Virxzs",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "その群青が愛しかったようだった",
+        "jp": "その群青が愛しかったようだった"
+      },
+      "artist": {
+        "en": "n-buna feat. KANA YAGINUMA",
+        "jp": "n-buna feat.ヤギヌマカナ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/603_mms_ultramarine.jpg",
+      "version": "MURASAKi",
+      "bpm": 220,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=POCs38Rputs",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "The wheel to the right",
+        "jp": "The wheel to the right"
+      },
+      "artist": {
+        "en": "Sampling Masters MEGA",
+        "jp": "Sampling Masters MEGA"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/606_mms_thewheeltotheright.jpg",
+      "version": "MURASAKi",
+      "bpm": 200,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "12+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=2o3ysG33t70",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Ray Tuninig",
+        "jp": "光線チューニング"
+      },
+      "artist": {
+        "en": "Nayutalien",
+        "jp": "ナユタン星人"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/628_mms_kosen_tuning.jpg",
+      "version": "MURASAKi+",
+      "bpm": 190,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=bxnMpFPFgqs",
+        "niconico": "http://www.nicovideo.jp/watch/1501756005"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Imagined Mirage",
+        "jp": "心象蜃気楼"
+      },
+      "artist": {
+        "en": "Orangestar",
+        "jp": "Orangestar"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/627_mms_shinkirou.jpg",
+      "version": "MURASAKi+",
+      "bpm": 190,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=hZV_DxNUudw",
+        "niconico": "http://www.nicovideo.jp/watch/sm29419885"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "End Mark ni Kibou to Namida wo soete",
+        "jp": "エンドマークに希望と涙を添えて"
+      },
+      "artist": {
+        "en": "cosMo@Bousou-P",
+        "jp": "cosMo＠暴走P"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180424_1.jpg",
+      "version": "MiLK",
+      "bpm": 257,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8+",
+        "expert": "10+",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=r3FFOl-LAM8",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "World Vanquisher",
+        "jp": "World Vanquisher"
+      },
+      "artist": {
+        "en": "void (Mournfinale)",
+        "jp": "void (Mournfinale)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_12.jpg",
+      "version": "MiLK+",
+      "bpm": 170,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8+",
+        "expert": "11",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=kfrrGjynwLo",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "heart・beat",
+        "jp": "ハート・ビート"
+      },
+      "artist": {
+        "en": "Serina Akesaka(CV:Emi Nitta)",
+        "jp": "明坂 芹菜(CV:新田 恵海)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/527_mms_heartbeat_serina.jpg",
+      "version": "PiNK+",
+      "bpm": 212,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=BxWvqXs0oAE",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "brilliant better",
+        "jp": "brilliant better"
+      },
+      "artist": {
+        "en": "Aliciana Ogata(CV:Ayaka Fukuhara)",
+        "jp": "御形 アリシアナ(CV:福原 綾香)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/526_mms_brilliantbetter.jpg",
+      "version": "PiNK+",
+      "bpm": 172,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=mi_pJLiANZE",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Fortissimo BELL",
+        "jp": "フォルテシモBELL"
+      },
+      "artist": {
+        "en": "Nazuna Tennozu(CV:Ayano Yamamoto)",
+        "jp": "天王洲 なずな(CV:山本 彩乃)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/546_mms_fortissimobell.jpg",
+      "version": "MURASAKi",
+      "bpm": 121,
+      "level": {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "6",
+        "expert": "7+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=eZseTqN4CHc",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "DETARAME ROCK&ROLL THEORY",
+        "jp": "DETARAME ROCK&ROLL THEORY"
+      },
+      "artist": {
+        "en": "Naru Hakobe(CV:M・A・O)",
+        "jp": "箱部 なる(CV:M・A・O)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/548_mms_detarame_rock_roll.jpg",
+      "version": "MURASAKi",
+      "bpm": 140,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ataZ1L8hKFo",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
+        "jp": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察"
+      },
+      "artist": {
+        "en": "Nagi Kobotoke(CV:Kaoru Sakura)",
+        "jp": "小仏 凪(CV:佐倉 薫)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/547_mms_watashinonakano.jpg",
+      "version": "MURASAKi",
+      "bpm": 175,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "8",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=xsYC2u6jsFM",
+        "niconico": "http://www.nicovideo.jp/watch/sm27811910"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Mo-shin Soliste Life!",
+        "jp": "猛進ソリストライフ！"
+      },
+      "artist": {
+        "en": "Nachi Tsukisuzu(CV:Ayaka Imamura)",
+        "jp": "月鈴 那知(CV:今村 彩夏)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/649_mms_soloistlife.jpg",
+      "version": "MURASAKi+",
+      "bpm": 252,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8+",
+        "expert": "10+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=QvFHwzVJXEg",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "My Dearest Song",
+        "jp": "My Dearest Song"
+      },
+      "artist": {
+        "en": "Shirona Tsukisuzu(CV:Marika Kouno)",
+        "jp": "月鈴 白奈(CV:高野 麻里佳)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/648_mms_my_dearest_song.jpg",
+      "version": "MURASAKi+",
+      "bpm": 145,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Z5PaAYVA-io",
+        "niconico": ""
+      },
+      "regionlocked": 0
     }
   ]
 }
