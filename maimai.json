@@ -13269,6 +13269,266 @@
         "niconico": ""
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "SPICY SWINGY STYLE",
+        "jp": "SPICY SWINGY STYLE"
+      },
+      "artist": {
+        "en": "Serina Akesaka(CV:Emi Nitta)",
+        "jp": "明坂 芹菜(CV:新田 恵海)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/SPICYSWINGYSTYLE-01.jpg",
+      "version": "MiLK",
+      "bpm": 242,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=6vN7evrJUHQ",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Bang Babang Bang!!!",
+        "jp": "Bang Babang Bang!!!"
+      },
+      "artist": {
+        "en": "Aliciana Ogata(CV:Ayaka Fukuhara)",
+        "jp": "御形 アリシアナ(CV:福原 綾香)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/BangBabangBang.jpg",
+      "version": "MiLK",
+      "bpm": 200,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=wWWTUvHaUmk",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Tic Tac DREAMIN′",
+        "jp": "Tic Tac DREAMIN′"
+      },
+      "artist": {
+        "en": "Nazuna Tennozu(CV:Ayano Yamanoto)",
+        "jp": "天王洲 なずな(CV:山本 彩乃)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/TicTacDREAMIN.jpg",
+      "version": "MiLK",
+      "bpm": 125,
+      "level": {
+        "easy": "1",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=bKZtHugdhnQ",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Neko Matsuri",
+        "jp": "猫祭り"
+      },
+      "artist": {
+        "en": "Naru Hakobe(CV:M・A・O)",
+        "jp": "箱部 なる(CV:M・A・O)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180403_2.jpg",
+      "version": "MiLK",
+      "bpm": 160,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ofs6L8xNs5k",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "TRUST",
+        "jp": "TRUST"
+      },
+      "artist": {
+        "en": "Nagi Kobotoke(CV:Kaoru Sakura)",
+        "jp": "小仏 凪(CV:佐倉 薫)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180403_3.jpg",
+      "version": "MiLK",
+      "bpm": 190,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=64GsZ6WEE1s",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Change Our MIRAI！",
+        "jp": "Change Our MIRAI！"
+      },
+      "artist": {
+        "en": "IRODORIMIDORI",
+        "jp": "イロドリミドリ「CHUNITHM」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/420_mai_sel_irodorimidori_01.jpg",
+      "version": "ORANGE+",
+      "bpm": 256,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=7Mmju28DKM8",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "MUTEKI We are one!!",
+        "jp": "無敵We are one!!"
+      },
+      "artist": {
+        "en": "IRODORIMIDORI",
+        "jp": "イロドリミドリ「CHUNITHM」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/461_mms_mutekiweareone.jpg",
+      "version": "PiNK+",
+      "bpm": 190,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "8+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=QKQhhWjoPbQ",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "DOKIDOKI DREAM!!!",
+        "jp": "ドキドキDREAM!!!"
+      },
+      "artist": {
+        "en": "IRODORIMIDORI",
+        "jp": "イロドリミドリ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/578_mms_dokidokidream.jpg",
+      "version": "MURASAKi",
+      "bpm": 210,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Xo0RdaNtwIQ",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Still",
+        "jp": "Still"
+      },
+      "artist": {
+        "en": "IRODORIMIDORI",
+        "jp": "イロドリミドリ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180403_1.jpg",
+      "version": "MiLK",
+      "bpm": 176,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=_6GYFmzKru8",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Session High!!",
+        "jp": "Session High⤴"
+      },
+      "artist": {
+        "en": "IRODORIMIDORI",
+        "jp": "イロドリミドリ「CHUNITHM」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180621_11.jpg",
+      "version": "MiLK+",
+      "bpm": 200,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=1QMfcLcH56o",
+        "niconico": ""
+      },
+      "regionlocked": 0
     }
   ]
 }
