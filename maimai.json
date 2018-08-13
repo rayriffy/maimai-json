@@ -1585,6 +1585,32 @@
         "niconico": null
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "にめんせい☆ウラオモテライフ！",
+        "jp": "にめんせい☆ウラオモテライフ！"
+      },
+      "artist": {
+        "en": "土間うまる（田中あいみ）「干物妹！うまるちゃんR」",
+        "jp": "土間うまる（田中あいみ）「干物妹！うまるちゃんR」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180724_2.jpg",
+      "version": "MiLK+",
+      "bpm": 170,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "10+",
+        "remaster": "11"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=TyMx4pu7kA0",
+        "niconico": ""
+      },
+      "regionlocked": 1
     }
   ],
   "nico": [
@@ -5225,6 +5251,162 @@
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=8pGRdRhjX3o",
         "niconico": "www.nicovideo.jp/watch/sm30067009"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "ONEgai Darling'",
+        "jp": "おねがいダーリン"
+      },
+      "artist": {
+        "en": "ONE (song by Nanahoshi Kangen Gakudan)",
+        "jp": "ONE (song by ナナホシ管弦楽団)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180806_2_img4.jpg",
+      "version": "MiLK+",
+      "bpm": 180,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=h8ESaPo7RWU",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Comet Honeymoon",
+        "jp": "彗星ハネムーン"
+      },
+      "artist": {
+        "en": "Nayutalien",
+        "jp": "ナユタン星人"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180806_2_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 145,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=aJWROMhEPPE",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "BURIKI NO DANCE",
+        "jp": "ブリキノダンス"
+      },
+      "artist": {
+        "en": "hinata denko",
+        "jp": "日向電工"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180806_2_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 172,
+      "level": {
+        "easy": "23",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "10+",
+        "remaster": "12"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=PmAZJ7zy1f4",
+        "niconico": "http://www.nicovideo.jp/watch/sm20296308"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Invisible",
+        "jp": "インビジブル"
+      },
+      "artist": {
+        "en": "kemu",
+        "jp": "kemu"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180806_2_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 192,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "10+",
+        "remaster": "12+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=vXSpdipuiFs",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "The Intense Singing of Hatsune Miku",
+        "jp": "初音ミクの激唱"
+      },
+      "artist": {
+        "en": "Storyteller",
+        "jp": "Storyteller"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180807_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10+",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=MFEaIgMkR_0",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Hibikase",
+        "jp": "ヒビカセ"
+      },
+      "artist": {
+        "en": "GigaReol",
+        "jp": "GigaReol"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180807_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 138,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=UC_qla6FQwM",
+        "niconico": ""
       },
       "regionlocked": 0
     }
@@ -13526,6 +13708,32 @@
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=1QMfcLcH56o",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "larva",
+        "jp": "larva"
+      },
+      "artist": {
+        "en": "Garigari Samushi",
+        "jp": "ガリガリさむし"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180724_3.jpg",
+      "version": "MiLK+",
+      "bpm": 202,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=GUnkmR4ScM8",
         "niconico": ""
       },
       "regionlocked": 0
