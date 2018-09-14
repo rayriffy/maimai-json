@@ -1611,6 +1611,32 @@
         "niconico": ""
       },
       "regionlocked": 1
+    },
+    {
+      "name": {
+        "en": "Arrival of Tears",
+        "jp": "Arrival of Tears"
+      },
+      "artist": {
+        "en": "Ayane",
+        "jp": "彩音"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180903_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=e2XXnkJtMKE",
+        "niconico": ""
+      },
+      "regionlocked": 0
     }
   ],
   "nico": [
@@ -5409,6 +5435,84 @@
         "niconico": ""
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Ievan Polkka",
+        "jp": "Ievan Polkka"
+      },
+      "artist": {
+        "en": "Otomania feat. Hatsune Miku",
+        "jp": "Otomania feat. 初音ミク"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180820_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 119,
+      "level": {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=jrgO_9ey53M",
+        "niconico": "http://www.nicovideo.jp/watch/sm982882"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Electric Angel",
+        "jp": "えれくとりっく・えんじぇぅ"
+      },
+      "artist": {
+        "en": "Yasuo",
+        "jp": "ヤスオ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180820_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 150,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "8+",
+        "master": "10+",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=6oaUXsEzL7E",
+        "niconico": "http://www.nicovideo.jp/watch/sm1249071"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Miracle Paint",
+        "jp": "ミラクルペイント"
+      },
+      "artist": {
+        "en": "OSTER project",
+        "jp": "OSTER project"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180820_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 215,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=UEnYvYYtjEo",
+        "niconico": "http://www.nicovideo.jp/watch/sm1588476"
+      },
+      "regionlocked": 0
     }
   ],
   "toho": [
@@ -7203,6 +7307,32 @@
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=7b8pMGiuFeI",
         "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "CYBER Sparks",
+        "jp": "CYBER Sparks"
+      },
+      "artist": {
+        "en": "Tatsh",
+        "jp": "Tatsh"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180903_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 192,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10",
+        "master": "10+",
+        "remaster": "12+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=6vV8zgl1gRY",
+        "niconico": ""
       },
       "regionlocked": 0
     }
@@ -10532,7 +10662,7 @@
         "advanced": "9",
         "expert": "11+",
         "master": "13",
-        "remaster": null
+        "remaster": "13"
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=nH_2rssTJtM",
@@ -13734,6 +13864,32 @@
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=GUnkmR4ScM8",
+        "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Xevel",
+        "jp": "Xevel"
+      },
+      "artist": {
+        "en": "Tatsh",
+        "jp": "Tatsh"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180903_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 176,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": ""
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=BRVGFqb_oyA",
         "niconico": ""
       },
       "regionlocked": 0
