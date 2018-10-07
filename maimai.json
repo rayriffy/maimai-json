@@ -1637,6 +1637,58 @@
         "niconico": ""
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Arrival of Tears",
+        "jp": "Arrival of Tears"
+      },
+      "artist": {
+        "en": "Ayane",
+        "jp": "彩音"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180903_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=e2XXnkJtMKE",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "全力☆Summer!",
+        "jp": "全力☆Summer!"
+      },
+      "artist": {
+        "en": "angela「アホガール」",
+        "jp": "angela「アホガール」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180917_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 158,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "10+",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=weiAd2TfEOA",
+        "niconico": null
+      },
+      "regionlocked": 1
     }
   ],
   "nico": [
@@ -7335,6 +7387,162 @@
         "niconico": ""
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "CYBER Sparks",
+        "jp": "CYBER Sparks"
+      },
+      "artist": {
+        "en": "Tatsh",
+        "jp": "Tatsh"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180903_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 192,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "10",
+        "master": "10+",
+        "remaster": "12+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=CAIP7eYtGFc",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "INFINITE WORLD",
+        "jp": "INFINITE WORLD"
+      },
+      "artist": {
+        "en": "SOUND HOLIC feat. Nana Takahashi",
+        "jp": "SOUND HOLIC feat. Nana Takahashi"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180917_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 167,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=lz-nX3i5d8k",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Amanojaku Reverse (feat. ｙｔｒ)",
+        "jp": "アマノジャクリバース feat. ｙｔｒ"
+      },
+      "artist": {
+        "en": "TamaOnSen",
+        "jp": "魂音泉"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181001_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 160,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=aClHjARW3is",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Everyone's",
+        "jp": "みんなの"
+      },
+      "artist": {
+        "en": "BUTAOTOME",
+        "jp": "豚乙女"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181001_img4.jpg",
+      "version": "MiLK+",
+      "bpm": 190,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=IygALgNq11Q",
+        "niconico": "http://www.nicovideo.jp/watch/sm21008189"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Shinchoku Doudesuka?",
+        "jp": "進捗どうですか？"
+      },
+      "artist": {
+        "en": "sumijun(Halozy) feat. nanahira(Confetto)",
+        "jp": "sumijun(Halozy) feat. ななひら(Confetto)"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181001_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 199,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=92HCfrtSJSc",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "SadoMamiHolic",
+        "jp": "サドマミホリック"
+      },
+      "artist": {
+        "en": "beatMARIO(COOL＆CREATE)",
+        "jp": "ビートまりお（COOL&CREATE）"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181001_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9+",
+        "master": "10+",
+        "remaster": "12+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=KkYDXGKe6o8",
+        "niconico": null
+      },
+      "regionlocked": 0
     }
   ],
   "sega": [
@@ -9936,6 +10144,32 @@
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=mj-v6zCnEaw",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "ULTRA B+K",
+        "jp": "ULTRA B+K"
+      },
+      "artist": {
+        "en": "nora2r",
+        "jp": "nora2r"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180917_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 175,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=xRuGWdlFBb4",
         "niconico": null
       },
       "regionlocked": 0
@@ -13891,6 +14125,32 @@
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=BRVGFqb_oyA",
         "niconico": ""
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Ragnarok",
+        "jp": "Ragnarok"
+      },
+      "artist": {
+        "en": "sky_delta",
+        "jp": "sky_delta"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/180917_img6.jpg",
+      "version": "MiLK+",
+      "bpm": 184,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10+",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=5nQHRWitOM8",
+        "niconico": null
       },
       "regionlocked": 0
     }
