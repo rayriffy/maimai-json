@@ -1689,6 +1689,84 @@
         "niconico": null
       },
       "regionlocked": 1
+    },
+    {
+      "name": {
+        "en": "NIJIYOMECHAN Exercise No 100,000,000",
+        "jp": "にじよめちゃん体操第一億"
+      },
+      "artist": {
+        "en": "NIJIYOMECHAN and ZIPTAN",
+        "jp": "にじよめちゃんとZIPたん"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181105_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 120,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=uDzKDaviTlk",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Kouganinpouchou",
+        "jp": "甲賀忍法帖"
+      },
+      "artist": {
+        "en": "ONMYO-ZA",
+        "jp": "陰陽座"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181105_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 178,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "10+",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=v86m2RdPSo8",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Genghis Khan",
+        "jp": "ジンギスカン"
+      },
+      "artist": {
+        "en": "Niiyama Yukihiro Feat. GREAT G and surprise",
+        "jp": "仁井山征弘 Feat. GREAT G and surprise"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181105_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 150,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=4B0F_ssYVRU",
+        "niconico": null
+      },
+      "regionlocked": 0
     }
   ],
   "nico": [
@@ -5563,6 +5641,110 @@
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=UEnYvYYtjEo",
         "niconico": "http://www.nicovideo.jp/watch/sm1588476"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "This Messed-Up Wonderful World Exists For Me",
+        "jp": "このふざけた素晴らしき世界は、僕の為にある"
+      },
+      "artist": {
+        "en": "n.k",
+        "jp": "n.k"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181119_img4.jpg",
+      "version": "MiLK+",
+      "bpm": 152,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ziGLZkisja4",
+        "niconico": "http://www.nicovideo.jp/watch/sm25379507"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Kono Piano de Omae o 8759632145kai Bunnaguru",
+        "jp": "このピアノでお前を8759632145回ぶん殴る"
+      },
+      "artist": {
+        "en": "SLAVE.V-V-R",
+        "jp": "SLAVE.V-V-R"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181119_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=EDfIgucXQyg",
+        "niconico": "http://www.nicovideo.jp/watch/sm28714955"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Fixer",
+        "jp": "フィクサー"
+      },
+      "artist": {
+        "en": "nuyuri",
+        "jp": "ぬゆり"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181119_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 135,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=srH34Tjjo9U",
+        "niconico": "http://www.nicovideo.jp/watch/sm30868619"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "I wanna be it!",
+        "jp": "はやくそれになりたい！"
+      },
+      "artist": {
+        "en": "kinoshita feat. Otomachi Una",
+        "jp": "キノシタ feat. 音街ウナ"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181119_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 185,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "10+",
+        "remaster": "12"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=5M3ZAJdLivU",
+        "niconico": "http://www.nicovideo.jp/watch/sm31192903"
       },
       "regionlocked": 0
     }
@@ -10173,6 +10355,32 @@
         "niconico": null
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "FREEDOM DiVE (tpz Overcute Remix)",
+        "jp": "FREEDOM DiVE (tpz Overcute Remix)"
+      },
+      "artist": {
+        "en": "t+pazolite",
+        "jp": "t+pazolite"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181024_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 234,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8+",
+        "expert": "10+",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=wj0Ji11jipE",
+        "niconico": null
+      },
+      "regionlocked": 0
     }
   ],
   "orig": [
@@ -11208,7 +11416,7 @@
         "advanced": "8",
         "expert": "11",
         "master": "13",
-        "remaster": null
+        "remaster": "13"
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=zny3dKBJZEY",
@@ -14150,6 +14358,214 @@
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=5nQHRWitOM8",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Help me, あーりん！",
+        "jp": "Help me, あーりん！"
+      },
+      "artist": {
+        "en": "IRODORIMIDORI",
+        "jp": "イロドリミドリ「CHUNITHM」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181015_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 183,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=1QH5vDUWuIs",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "なるとなぎのパーフェクトロックンロール教室",
+        "jp": "なるとなぎのパーフェクトロックンロール教室"
+      },
+      "artist": {
+        "en": "IRODORIMIDORI",
+        "jp": "イロドリミドリ「CHUNITHM」"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181015_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 216,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=1q61_Z7_a4Y",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "あねぺったん",
+        "jp": "あねぺったん"
+      },
+      "artist": {
+        "en": "Tsukisuzu Sisters ”IRODORIMIDORI”",
+        "jp": "月鈴姉妹（イロドリミドリ）"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181015_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 180,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=KOTphuWb__4",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "We Gonna Journey",
+        "jp": "We Gonna Journey"
+      },
+      "artist": {
+        "en": "Queen P.A.L.",
+        "jp": "Queen P.A.L."
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181024_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 160,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ltNV_zGImS8",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Flower, snow and Drum'n'bass.",
+        "jp": "花と、雪と、ドラムンベース。"
+      },
+      "artist": {
+        "en": "kanone feat. Sennzai",
+        "jp": "kanone feat. せんざい"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181119_img5.jpg",
+      "version": "MiLK+",
+      "bpm": 180,
+      "level": {
+        "easy": "2",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": "12+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=ag8Lwr8QvDc",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "My First Phone",
+        "jp": "My First Phone"
+      },
+      "artist": {
+        "en": "cubesato",
+        "jp": "cubesato"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181203_img1.jpg",
+      "version": "MiLK+",
+      "bpm": 114,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "10+",
+        "master": "12+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=oQL8iKgF9Rs",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Ikazuchi",
+        "jp": "怒槌"
+      },
+      "artist": {
+        "en": "Takenobu Mitsuyoshi",
+        "jp": "光吉猛修"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181203_img2.jpg",
+      "version": "MiLK+",
+      "bpm": 200,
+      "level": {
+        "easy": "4",
+        "basic": "6",
+        "advanced": "8+",
+        "expert": "11+",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=u2rL-kfjYRM",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "SILENT BLUE",
+        "jp": "SILENT BLUE"
+      },
+      "artist": {
+        "en": "Kaneko Chiharu",
+        "jp": "かねこちはる"
+      },
+      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/181203_img3.jpg",
+      "version": "MiLK+",
+      "bpm": 210,
+      "level": {
+        "easy": "4",
+        "basic": "5",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=nR4kLCfApSU",
         "niconico": null
       },
       "regionlocked": 0
