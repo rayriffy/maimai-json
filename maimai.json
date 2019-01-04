@@ -18,7 +18,7 @@
         "advanced": "6",
         "expert": "8",
         "master": "11",
-        "remaster": null
+        "remaster": "12"
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=xkMdLcB_vNU",
@@ -1689,6 +1689,110 @@
         "niconico": null
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "NOISY LOVE POWER☆",
+        "jp": "NOISY LOVE POWER☆"
+      },
+      "artist": {
+        "en": "大橋彩香",
+        "jp": "大橋彩香"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img3.jpg",
+      "version": "FiNALE",
+      "bpm": 140,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9+",
+        "master": "10+",
+        "remaster": "12"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=xhvNahN0huk",
+        "niconico": null
+      },
+      "regionlocked": 1
+    },
+    {
+      "name": {
+        "en": "NE!KO!",
+        "jp": "ネ！コ！"
+      },
+      "artist": {
+        "en": "Patricia Of End / Michi Kuroki / Shachi Yuri / Yuki Asuhara “Nora to Oujo to Noraneko Heart”",
+        "jp": "パトリシア・オブ・エンド・黑木未知．夕莉シャチ・明日原ユウキ「ノラと皇女と野良貓ハート」"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img4.jpg",
+      "version": "FiNALE",
+      "bpm": 182,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=DtppZgGQsoc",
+        "niconico": "https://www.nicovideo.jp/watch/sm31840344"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "SHINY DAYS",
+        "jp": "SHINY DAYS"
+      },
+      "artist": {
+        "en": "亜咲花",
+        "jp": "亜咲花"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img2.jpg",
+      "version": "FiNALE",
+      "bpm": 110,
+      "level": {
+        "easy": "1",
+        "basic": "3",
+        "advanced": "5",
+        "expert": "7+",
+        "master": "11",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=DCr-r0ZP9P8",
+        "niconico": null
+      },
+      "regionlocked": 1
+    },
+    {
+      "name": {
+        "en": "only my railgun",
+        "jp": "only my railgun"
+      },
+      "artist": {
+        "en": "fripSide",
+        "jp": "fripSide"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img5.jpg",
+      "version": "FiNALE",
+      "bpm": 143,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "10+",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=yvS0Sr-2RH0",
+        "niconico": null
+      },
+      "regionlocked": 1
     }
   ],
   "nico": [
