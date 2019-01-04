@@ -7803,6 +7803,58 @@
         "niconico": null
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Money Money",
+        "jp": "Money Money"
+      },
+      "artist": {
+        "en": "Akasuki Records",
+        "jp": "暁Records"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img9.jpg",
+      "version": "FiNALE",
+      "bpm": 145,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "9",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=4P8iFYvnJOE",
+        "niconico": "https://www.nicovideo.jp/watch/sm33116017"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Fusigi-no-kuni no Christmas",
+        "jp": "不思議の国のクリスマス"
+      },
+      "artist": {
+        "en": "SOUND HOLIC feat. 3L",
+        "jp": "SOUND HOLIC feat. 3L"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181224_img2.jpg",
+      "version": "FiNALE",
+      "bpm": 128,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "5",
+        "expert": "8",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=YILykk6SW50",
+        "niconico": null
+      },
+      "regionlocked": 0
     }
   ],
   "sega": [
