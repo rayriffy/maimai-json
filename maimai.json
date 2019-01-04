@@ -5721,6 +5721,110 @@
         "niconico": "http://www.nicovideo.jp/watch/sm31192903"
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "GoldenHolyNightRottingintotheFrostandSnow",
+        "jp": "金の聖夜霜雪に朽ちて"
+      },
+      "artist": {
+        "en": "Deadball P",
+        "jp": "デッドボールP"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181224_img3.jpg",
+      "version": "FiNALE",
+      "bpm": 185,
+      "level": {
+        "easy": "3",
+        "basic": "5",
+        "advanced": "7+",
+        "expert": "9+",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=nT2nKAcbNl8",
+        "niconico": "http://www.nicovideo.jp/watch/sm1807929"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "ROKI",
+        "jp": "ロキ"
+      },
+      "artist": {
+        "en": "mikitiP",
+        "jp": "みきとP"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img8.jpg",
+      "version": "FiNALE",
+      "bpm": 150,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9",
+        "master": "10+",
+        "remaster": "12"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=Xg-qfsKN2_E",
+        "niconico": "https://www.nicovideo.jp/watch/sm32798041"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "HIBANA",
+        "jp": "ヒバナ"
+      },
+      "artist": {
+        "en": "DECO*27",
+        "jp": "DECO*27"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img7.jpg",
+      "version": "FiNALE",
+      "bpm": 200,
+      "level": {
+        "easy": "3",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "9+",
+        "master": "10+",
+        "remaster": "11+"
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=hxSg2Ioz3LM",
+        "niconico": "https://www.nicovideo.jp/watch/sm31685272"
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Role-playing game",
+        "jp": "ロールプレイングゲーム"
+      },
+      "artist": {
+        "en": "Soramafuurasaka",
+        "jp": "そらまふうらさか"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img6.jpg",
+      "version": "FiNALE",
+      "bpm": 162,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "6",
+        "expert": "8+",
+        "master": "11",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=E286KqzpkKw",
+        "niconico": "http://www.nicovideo.jp/watch/sm32355422"
+      },
+      "regionlocked": 0
     }
   ],
   "toho": [
