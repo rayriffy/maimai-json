@@ -1068,58 +1068,6 @@
     },
     {
       "name": {
-        "en": "ICHIZURESHIPI",
-        "jp": "イチズレシピ"
-      },
-      "artist": {
-        "en": "idol college“I am matter made Getz Bros. as “general public sample” in young lady school”",
-        "jp": "アイドルカレッジ「俺がお嬢様学校に「庶民サンプル」としてゲッツされた件」"
-      },
-      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/503_mms_ichizurecipe.jpg",
-      "version": "PiNK+",
-      "bpm": 170,
-      "level": {
-        "easy": "2",
-        "basic": "4",
-        "advanced": "7",
-        "expert": "8",
-        "master": "10+",
-        "remaster": null
-      },
-      "listen": {
-        "youtube": "https://www.youtube.com/watch?v=252Tp9_VUC0",
-        "niconico": null
-      },
-      "regionlocked": 0
-    },
-    {
-      "name": {
-        "en": "Friend shitai",
-        "jp": "ふ・れ・ん・ど・し・た・い"
-      },
-      "artist": {
-        "en": "Gakuen Seikatsubu“SCHOOL-LIVE!”",
-        "jp": "学園生活部「がっこうぐらし！」"
-      },
-      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/504_mms_friendshitai.jpg",
-      "version": "PiNK+",
-      "bpm": 148,
-      "level": {
-        "easy": "2",
-        "basic": "4",
-        "advanced": "6",
-        "expert": "7",
-        "master": "10+",
-        "remaster": "11"
-      },
-      "listen": {
-        "youtube": "https://www.youtube.com/watch?v=mW-JAiZcGbU",
-        "niconico": null
-      },
-      "regionlocked": 0
-    },
-    {
-      "name": {
         "en": "GOKUJOU SUMAIRU",
         "jp": "極上スマイル"
       },
@@ -1273,32 +1221,6 @@
         "niconico": null
       },
       "regionlocked": 1
-    },
-    {
-      "name": {
-        "en": "Sora no Uta",
-        "jp": "未来(ソラ)の歌"
-      },
-      "artist": {
-        "en": "Questy \"POP IN Q\"",
-        "jp": "Questy「ポッピンQ」"
-      },
-      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/656_mms_pop_in_q.jpg",
-      "version": "MURASAKi+",
-      "bpm": 153,
-      "level": {
-        "easy": "2",
-        "basic": "4",
-        "advanced": "6",
-        "expert": "8",
-        "master": "11",
-        "remaster": null
-      },
-      "listen": {
-        "youtube": "https://www.youtube.com/watch?v=7ZLFhoAWbdM",
-        "niconico": null
-      },
-      "regionlocked": 0
     },
     {
       "name": {
@@ -5121,58 +5043,6 @@
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=u-xFogZi5yg",
         "niconico": "http://www.nicovideo.jp/watch/sm21582066"
-      },
-      "regionlocked": 0
-    },
-    {
-      "name": {
-        "en": "Himitsuwo Chodai",
-        "jp": "ひみつをちょーだい"
-      },
-      "artist": {
-        "en": "ARSMAGNA",
-        "jp": "アルスマグナ"
-      },
-      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/469_mai_jacket_himitsuwochodai_01.jpg",
-      "version": "PiNK",
-      "bpm": 160,
-      "level": {
-        "easy": "2",
-        "basic": "4",
-        "advanced": "6",
-        "expert": "7+",
-        "master": "9+",
-        "remaster": null
-      },
-      "listen": {
-        "youtube": "https://www.youtube.com/watch?v=d-sqCFRNxb4",
-        "niconico": "www.nicovideo.jp/watch/sm28391893"
-      },
-      "regionlocked": 0
-    },
-    {
-      "name": {
-        "en": "NATSUNI KISU SHITE IIDESUKA?",
-        "jp": "夏にキスしていいですか？"
-      },
-      "artist": {
-        "en": "ARSMAGNA",
-        "jp": "アルスマグナ"
-      },
-      "image_url": "https://maimai.sega.jp/assets/maiSongList/jacket/498_mms_summerkiss.jpg",
-      "version": "PiNK+",
-      "bpm": 160,
-      "level": {
-        "easy": "2",
-        "basic": "5",
-        "advanced": "6",
-        "expert": "7+",
-        "master": "10+",
-        "remaster": null
-      },
-      "listen": {
-        "youtube": "https://www.youtube.com/watch?v=TPHo7nkYC9I",
-        "niconico": "www.nicovideo.jp/watch/sm29071154"
       },
       "regionlocked": 0
     },
