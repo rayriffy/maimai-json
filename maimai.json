@@ -10511,6 +10511,58 @@
         "niconico": null
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "EVERGREEN",
+        "jp": "EVERGREEN"
+      },
+      "artist": {
+        "en": "CRANKY",
+        "jp": "Cranky"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181224_img1.jpg",
+      "version": "FiNALE",
+      "bpm": 145,
+      "level": {
+        "easy": "2",
+        "basic": "4",
+        "advanced": "7",
+        "expert": "10",
+        "master": "12",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=IvVi1VuoDzU",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "Scarlet Lance",
+        "jp": "Scarlet Lance"
+      },
+      "artist": {
+        "en": "MASAKI (ZUNTATA)「グルーブコースター 3EX ドリームパーティー」より",
+        "jp": "MASAKI (ZUNTATA)「グルーブコースター 3EX ドリームパーティー」より"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img11.jpg",
+      "version": "FiNALE",
+      "bpm": 185,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "8",
+        "expert": "11",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=GX0C7wEqk1I",
+        "niconico": null
+      },
+      "regionlocked": 0
     }
   ],
   "orig": [
