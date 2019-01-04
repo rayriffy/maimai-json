@@ -13002,7 +13002,7 @@
         "advanced": "7",
         "expert": "9",
         "master": "13",
-        "remaster": ""
+        "remaster": "13"
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=QRQRq7-BjTk",
@@ -14748,6 +14748,58 @@
       },
       "listen": {
         "youtube": "https://www.youtube.com/watch?v=nR4kLCfApSU",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "ENJOY POLIS",
+        "jp": "ENJOY POLIS"
+      },
+      "artist": {
+        "en": "LOPIT",
+        "jp": "LOPIT"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img1.jpg",
+      "version": "FiNALE",
+      "bpm": 220,
+      "level": {
+        "easy": "2",
+        "basic": "5",
+        "advanced": "7",
+        "expert": "9",
+        "master": "11+",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=aUp4WxGBT9E",
+        "niconico": null
+      },
+      "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "QZKago Requiem",
+        "jp": "QZKago Requiem"
+      },
+      "artist": {
+        "en": "t+pazolite",
+        "jp": "t+pazolite"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img13.jpg",
+      "version": "FiNALE",
+      "bpm": 257,
+      "level": {
+        "easy": "5",
+        "basic": "6",
+        "advanced": "9+",
+        "expert": "11+",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=rCTYO7qosOk",
         "niconico": null
       },
       "regionlocked": 0
