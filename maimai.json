@@ -14803,6 +14803,32 @@
         "niconico": null
       },
       "regionlocked": 0
+    },
+    {
+      "name": {
+        "en": "TiamaT:F minor",
+        "jp": "TiamaT:F minor"
+      },
+      "artist": {
+        "en": "Team Grimoire",
+        "jp": "Team Grimoire"
+      },
+      "image_url": "https://maimai.sega.jp/storage/jacket/181213_img15.jpg",
+      "version": "FiNALE",
+      "bpm": 215,
+      "level": {
+        "easy": "3",
+        "basic": "6",
+        "advanced": "9",
+        "expert": "11+",
+        "master": "13",
+        "remaster": null
+      },
+      "listen": {
+        "youtube": "https://www.youtube.com/watch?v=I0EB03PWl1Y",
+        "niconico": null
+      },
+      "regionlocked": 0
     }
   ]
 }
